@@ -1,0 +1,5 @@
+variant_id,normalized_claim,variant_type,observed_time,mutation_features
+V1,"Pfizer COVID-19 mRNA vaccine induces turbo cancer","case_report_claim","2026-08-16 20:01:23","causal claim; case-report framing"
+V2,"COVID vaccines raise the risk of multiple cancers","population_risk_claim","2026-08-16 20:26:49","population expansion; broader outcome scope"
+V3,"mRNA vaccines cause turbo cancer and are purely harmful with zero benefit","strong_causal_claim","2026-08-16 20:28:03","certainty inflation; magnitude inflation; risk amplification; benefit deletion"
+C1,"Turbo cancer does not exist","counter_claim","2026-08-16 20:04:55","counter-narrative"

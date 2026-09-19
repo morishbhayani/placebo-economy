@@ -1,0 +1,9 @@
+streamlit
+pandas
+pyarrow
+duckdb
+requests
+python-dotenv
+scikit-learn
+sentence-transformers
+pytz

@@ -1,0 +1,42 @@
+[
+  {
+    "pmid": "41013858",
+    "title": "1-year risks of cancers associated with COVID-19 vaccination: a large population-based cohort study in South Korea.",
+    "year": "2025",
+    "journal": null,
+    "publication_type": null,
+    "abstract": "The oncogenic potential of SARS-CoV-2 has been hypothetically proposed, but real-world data on COVID-19 infection and vaccination are insufficient. Therefore, this large-scale population-based retrospective study in Seoul, South Korea, aimed to estimate the cumulative incidences and subsequent risks of overall cancers 1 year after COVID-19 vaccination. Data from 8,407,849 individuals between 2021 and 2023 were obtained from the Korean National Health Insurance database. The participants were categorized into two groups based on their COVID-19 vaccination status. The risks for overall cancer were assessed using multivariable Cox proportional hazards models, and data were expressed as hazard ratios (HRs) and 95% confidence intervals (CIs). The HRs of thyroid (HR, 1.351; 95% CI, 1.206-1.514), gastric (HR, 1.335; 95% CI, 1.130-1.576), colorectal (HR, 1.283; 95% CI, 1.122-1.468), lung (HR, 1.533; 95% CI, 1.254-1.874), breast (HR, 1.197; 95% CI, 1.069-1.340), and prostate (HR, 1.687; 95% CI, 1.348-2.111) cancers significantly increased at 1 year post-vaccination. In terms of vaccine type, cDNA vaccines were associated with the increased risks of thyroid, gastric, colorectal, lung, and prostate cancers; mRNA vaccines were linked to the increased risks of thyroid, colorectal, lung, and breast cancers; and heterologous vaccination was related to the increased risks of thyroid and breast cancers. Given the observed associations between COVID-19 vaccination and cancer incidence by age, sex, and vaccine type, further research is needed to determine whether specific vaccination strategies may be optimal for populations in need of COVID-19 vaccination."
+  },
+  {
+    "pmid": "40881928",
+    "title": "COVID-19 vaccination, all-cause mortality, and hospitalization for cancer: 30-month cohort study in an Italian province.",
+    "year": "2025",
+    "journal": null,
+    "publication_type": null,
+    "abstract": "Anecdotal reports suggested an association between SARS-CoV-2 vaccination and some cancers, but no formal assessment has been published. This population-wide cohort analysis was aimed at evaluating the risk of all-cause death and cancer hospitalization by SARS-CoV-2 immunization status. Using National Health System official data, the entire population of the Pescara province, Italy was followed from June 2021 (six months after the first vaccination) to December 2023. Cox models were adjusted for age, gender, previous SARS-CoV-2 infection, and selected comorbidities. Of the 296,015 residents aged \u226511 years, 16.6% were unvaccinated, 83.3% received \u22651 dose, and 62.2% \u22653 doses. Compared with the unvaccinated, those receiving \u22651 dose showed a significantly lower likelihood of all-cause death, and a slightly higher likelihood of hospitalization for cancer (HR: 1.23; 95% CI: 1.11-1.37). The latter association was significant only among the subjects with no previous SARS-CoV-2 infection, and was reversed when the minimum time between vaccination and cancer hospitalization was set to 12 months. The subjects who received SARS-CoV-2 vaccination showed a substantial reduction in all-cause mortality, and a risk of cancer hospitalization that varied by infection status, cancer site, and the minimum lag-time after vaccination. Given that it was not possible to quantify the potential impact of the healthy vaccinee bias and unmeasured confounders, these findings are inevitably preliminary. See also the graphical abstract(Fig. 1)."
+  },
+  {
+    "pmid": "41498242",
+    "title": "COVID vaccination and post-infection cancer signals: Evaluating patterns and potential biological mechanisms.",
+    "year": "2026",
+    "journal": null,
+    "publication_type": null,
+    "abstract": "A growing number of peer-reviewed publications have reported diverse cancer types appearing in temporal association with COVID-19 vaccination or infection. To characterize the nature and scope of these reports, a systematic literature search from January 2020 to October 2025 was conducted based on specified eligibility criteria. A total of 69 publications met inclusion criteria: 66 article-level reports describing 333 patients across 27 countries, 2 retrospective population-level investigations (Italy: ~300,000 cohort, and Korea: ~8.4 million cohort) quantified cancer incidence and mortality trends among vaccinated populations, and one longitudinal analysis of ~1.3 million US miliary service members spanning the pre-pandemic through post-pandemic periods. Most of the studies documented hematologic malignancies (non-Hodgkin's lymphomas, cutaneous lymphomas, leukemias), solid tumors (breast, lung, melanoma, sarcoma, pancreatic cancer, and glioblastoma), and virus-associated cancers (Kaposi and Merkel cell carcinoma). Across reports, several recurrent themes emerged: (1) unusually rapid progression, recurrence, or reactivation of preexisting indolent or controlled disease, (2) atypical or localized histopathologic findings, including involvement of vaccine injection sites or regional lymph nodes, and (3) proposed immunologic links between acute infection or vaccination and tumor dormancy, immune escape, or microenvironmental shifts. The predominance of case-level observations and early population-level data demonstrates an early phase of potential safety-signal detection. These findings underscore the need for rigorous epidemiologic, longitudinal, clinical, histopathological, forensic, and mechanistic studies to assess whether and under what conditions COVID-19 vaccination or infection may be linked with cancer."
+  },
+  {
+    "pmid": "42459262",
+    "title": "Enhancing public health surveillance: A statistical validation of potential sampling bias in large retrospective vaccine cohorts.",
+    "year": "2026",
+    "journal": null,
+    "publication_type": null,
+    "abstract": "In the context of Global Health, massive administrative datasets have become indispensable tools for health surveillance. However, the sheer scale of Big Data can mask systemic selection biases that standard mathematical adjustments may not fully mitigate. In this study, I propose a methodological audit of a recent large-scale cohort (N = 2,975,035) concerning COVID-19 vaccination and oncological outcomes. By benchmarking the cohort's architecture against national demographic and epidemiological gold standards through single-proportion Z-tests, we identified notable structural divergences. The first inferential test yielded a Z-score of -260.39 (p < 10\u207b\u2075\u2070), suggesting a structural under-sampling of the elderly population (32.2% deficit) relative to the reference population. The second test identified a statistically inconsistent cancer incidence deficit in the non-vaccinated control group (Z = -15.23, p < 10\u207b\u2075\u2070). These findings indicate that the reported statistical signals may emerge as a computational consequence of structural selection bias, where an artificially deflated baseline in the control group potentially inflates Hazard Ratios. Within a One Health approach, ensuring the structural integrity of data is crucial for effective prevention and control measures. We conclude that large-scale surveillance studies could be inferentially validated against demographic benchmarks to ensure that public health conclusions are grounded in baseline equivalence, thereby safeguarding the reliability of global health monitoring."
+  },
+  {
+    "pmid": "41988570",
+    "title": "Commentary: 1-year risks of cancers associated with COVID-19 vaccination: a large population-based cohort study in South Korea.",
+    "year": "2026",
+    "journal": null,
+    "publication_type": null,
+    "abstract": ""
+  }
+]

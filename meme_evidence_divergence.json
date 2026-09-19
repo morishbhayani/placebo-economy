@@ -1,0 +1,30 @@
+{
+  "claim_family": "COVID-19 vaccination and cancer",
+  "evidence_baseline": "Observational cancer signals exist, but the retrieved evidence does not establish that mRNA COVID-19 vaccines cause rapidly developing cancers or a distinct turbo-cancer phenomenon.",
+  "variants": [
+    {
+      "variant_id": "V1",
+      "claim": "Pfizer COVID-19 mRNA vaccine induces turbo cancer",
+      "evidence_alignment": "LOW",
+      "reason": "Makes a direct causal claim and invokes a distinct turbo-cancer phenomenon that is not established by the retrieved evidence."
+    },
+    {
+      "variant_id": "V2",
+      "claim": "COVID vaccines raise the risk of multiple cancers",
+      "evidence_alignment": "PARTIAL",
+      "reason": "Some observational studies report associations with certain cancer outcomes, but this wording removes uncertainty and can imply causation that the studies do not establish."
+    },
+    {
+      "variant_id": "V3",
+      "claim": "mRNA vaccines cause turbo cancer and are purely harmful with zero benefit",
+      "evidence_alignment": "VERY_LOW",
+      "reason": "Adds strong causal certainty and broad claims of universal harm and zero benefit that go substantially beyond the retrieved cancer evidence."
+    }
+  ],
+  "divergence_pattern": {
+    "V1_to_V2": "CLOSER_TO_EVIDENCE",
+    "V2_to_V3": "STRONGLY_AWAY_FROM_EVIDENCE",
+    "largest_divergence": "V3"
+  },
+  "interpretation": "The most important divergence occurs when a limited observational signal is transformed into categorical causal and universal-harm language."
+}
