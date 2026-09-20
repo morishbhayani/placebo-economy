@@ -3,7 +3,7 @@ import streamlit as st
 from prioritization import prioritize
 
 st.set_page_config(
-    page_title="Placebo Economy",
+    page_title="Epi Meme Ology",
     page_icon="🧬",
     layout="wide"
 )
@@ -17,7 +17,7 @@ with open("data/case_studies/turbo_cancer/meme_evidence_divergence.json") as f:
 with open("data/case_studies/turbo_cancer/cultural_metrics.json") as f:
     cultural = json.load(f)
 
-st.title("Placebo Economy")
+st.title("Epi Meme Ology")
 st.caption(
     "Tracking how health narratives spread, mutate, diverge from evidence, "
     "and begin influencing behavior."
