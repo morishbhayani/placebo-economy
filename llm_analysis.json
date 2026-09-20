@@ -1,0 +1,58 @@
+{
+  "model": "llama3.2:3b",
+  "pipeline": "local_llm_plus_deterministic_validation",
+  "variants": [
+    {
+      "variant_number": 1,
+      "observed_count": 12,
+      "first_seen": "2026-08-16 20:01:23-04:00",
+      "original_post": "RT @MakisMedicine: Nov.24, 2021 - First published case of Pfizer COVID-19 mRNA Vaccine induced \"Turbo Cancer\"\n\nPatient: 66 year old Belgian\u2026",
+      "stance": "CLAIM",
+      "normalized_claim": "COVID-19 mRNA vaccines may cause cancer",
+      "mutation_features": [
+        "NONE"
+      ],
+      "behavior": "NONE",
+      "explanation": "The post asserts a potential health risk"
+    },
+    {
+      "variant_number": 2,
+      "observed_count": 6,
+      "first_seen": "2026-08-16 20:04:55-04:00",
+      "original_post": "RT @DrNeilStone: mRNA vaccines are vaccines \n\nChemtrails don't exist \n\nTurbo cancer doesn't exist \n\nCovid does exist\n\nCovid vaccines worked\u2026",
+      "stance": "COUNTER_CLAIM",
+      "normalized_claim": "Covid vaccines worked\u2026",
+      "mutation_features": [
+        "NONE"
+      ],
+      "behavior": "NONE",
+      "explanation": "Does not address the health claim about COVID-19 mRNA vaccines"
+    },
+    {
+      "variant_number": 3,
+      "observed_count": 1,
+      "first_seen": "2026-08-16 20:26:49-04:00",
+      "original_post": "A recent study by Korean doctors published in Biomarker Research analyzed health records from over 8.4 million adults between 2021-2023 and found that Covid vaccines raise the risk of six cancers, including lung, breast and prostate. https://t.co/UPSLI6RUhL",
+      "stance": "CLAIM",
+      "normalized_claim": "COVID-19 mRNA vaccines raise the risk of six cancers, including lung, breast, and prostate.",
+      "mutation_features": [
+        "NONE"
+      ],
+      "behavior": "NONE",
+      "explanation": "The post asserts a health claim about COVID-19 mRNA vaccines."
+    },
+    {
+      "variant_number": 4,
+      "observed_count": 1,
+      "first_seen": "2026-08-16 20:28:03-04:00",
+      "original_post": "mRNA vaccines cause turbo cancer, myocarditis, and SADS (sudden adult death syndrome). They are poison, and I will continue to loudly proclaim this truth.\nThese vaccines are purely harmful and offer zero benefit whatsoever. They are the opposite of safe and effective.",
+      "stance": "CLAIM",
+      "normalized_claim": "mRNA vaccines cause cancer, myocarditis, and SADS",
+      "mutation_features": [
+        "NONE"
+      ],
+      "behavior": "NONE",
+      "explanation": "claims the vaccines cause these health issues"
+    }
+  ]
+}
