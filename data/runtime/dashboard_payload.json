@@ -1,0 +1,106 @@
+{
+  "keyword": "sleep",
+  "mode": "FAST_SCAN",
+  "observation_window": {
+    "first": "2026-08-16 20:00:00-04:00",
+    "last": "2026-08-17 02:13:52-04:00"
+  },
+  "narratives": [
+    {
+      "rank": 1,
+      "claim": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+      "maturity": "EMERGING_CLAIM",
+      "diffusion": {
+        "observed_posts": 1,
+        "unique_participants": 1,
+        "first_seen": "2026-08-16 20:01:08-04:00",
+        "last_seen": "2026-08-16 20:01:08-04:00",
+        "persistence_minutes": 0,
+        "posts_per_hour": null,
+        "max_retweets": 15,
+        "max_likes": 73,
+        "max_views": 1453
+      },
+      "meme_dna": {
+        "distinct_variants": 1,
+        "mutation_status": "INSUFFICIENT_FOR_MUTATION_ANALYSIS",
+        "variants": [
+          {
+            "variant": "V1",
+            "text": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+            "observed_count": 1,
+            "unique_authors": 1
+          }
+        ],
+        "mutations": []
+      },
+      "evidence": {
+        "verdict": "NOT_RUN_FAST_SCAN",
+        "summary": "Scientific evidence analysis is not run during Fast Scan. Fast Scan prioritizes immediate cultural-signal discovery.",
+        "sources": []
+      },
+      "divergence": {
+        "alignment": "NOT_ANALYZED",
+        "level": "UNRESOLVED"
+      },
+      "behavior": {
+        "detected": false,
+        "posts": 0,
+        "rate": 0
+      },
+      "priority": {
+        "flag": "\u26aa",
+        "label": "EMERGING_CLAIM",
+        "rationale": "Observed once in the current window; recurrence has not yet been established."
+      }
+    },
+    {
+      "rank": 2,
+      "claim": "Have you ever wondered if just 25 minutes a day can boost your happiness, energy, and mental peace? In this video, I explore 3 simple habits based on science that can help improve your mood, sleep, focus, and mental health.",
+      "maturity": "EMERGING_CLAIM",
+      "diffusion": {
+        "observed_posts": 1,
+        "unique_participants": 1,
+        "first_seen": "2026-08-16 22:18:50-04:00",
+        "last_seen": "2026-08-16 22:18:50-04:00",
+        "persistence_minutes": 0,
+        "posts_per_hour": null,
+        "max_retweets": 0,
+        "max_likes": 2,
+        "max_views": 119
+      },
+      "meme_dna": {
+        "distinct_variants": 1,
+        "mutation_status": "INSUFFICIENT_FOR_MUTATION_ANALYSIS",
+        "variants": [
+          {
+            "variant": "V1",
+            "text": "Have you ever wondered if just 25 minutes a day can boost your happiness, energy, and mental peace? In this video, I explore 3 simple habits based on science that can help improve your mood, sleep, focus, and mental health.",
+            "observed_count": 1,
+            "unique_authors": 1
+          }
+        ],
+        "mutations": []
+      },
+      "evidence": {
+        "verdict": "NOT_RUN_FAST_SCAN",
+        "summary": "Scientific evidence analysis is not run during Fast Scan. Fast Scan prioritizes immediate cultural-signal discovery.",
+        "sources": []
+      },
+      "divergence": {
+        "alignment": "NOT_ANALYZED",
+        "level": "UNRESOLVED"
+      },
+      "behavior": {
+        "detected": false,
+        "posts": 0,
+        "rate": 0
+      },
+      "priority": {
+        "flag": "\u26aa",
+        "label": "EMERGING_CLAIM",
+        "rationale": "Observed once in the current window; recurrence has not yet been established."
+      }
+    }
+  ]
+}

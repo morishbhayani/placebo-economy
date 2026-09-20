@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "observed_posts": 9,
+    "behavior_posts": 0,
+    "behavior_rate": 0.0,
+    "behavior_detected": false,
+    "behavior_posts_detail": []
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "observed_posts": 2,
+    "behavior_posts": 0,
+    "behavior_rate": 0.0,
+    "behavior_detected": false,
+    "behavior_posts_detail": []
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "observed_posts": 1,
+    "behavior_posts": 1,
+    "behavior_rate": 1.0,
+    "behavior_detected": true,
+    "behavior_posts_detail": [
+      {
+        "id": "2089140432437739972",
+        "author_id": "3047925973",
+        "text": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+        "signals": [
+          "RECOMMENDATION"
+        ]
+      }
+    ]
+  }
+]

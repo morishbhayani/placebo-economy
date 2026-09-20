@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "verdict": "MIXED",
+    "summary": "The evidence suggests that sufficient physical activity, adequate sleep, and good nutrition are associated with lower mortality risk among adults. However, the exact relationship between sleep duration, exercise, and mortality is complex and may vary depending on the physical activity domain.",
+    "papers": [
+      {
+        "paper": 1,
+        "relationship": "PARTIAL",
+        "finding": "Elevated AHI is associated with reduced V'02 peak and increased all-cause mortality. Mediation analysis suggested a possible, but not statistically significant, contribution of impaired cardiopulmonary fitness to the relationship between sleep apnoea and mortality.",
+        "limitation": "The study focused on sleep apnoea and cardiopulmonary exercise testing, which may not be directly applicable to the general population."
+      },
+      {
+        "paper": 2,
+        "relationship": "SUPPORTS",
+        "finding": "Survivors with sufficient physical activity and adequate sleep time have significantly lower all-cause mortality. The combination of sufficient PA, adequate sleep time, and absence of trouble sleeping reduces mortality risk among cancer survivors.",
+        "limitation": "The study focused on cancer survivors, which may not be directly applicable to the general population."
+      },
+      {
+        "paper": 3,
+        "relationship": "SUPPORTS",
+        "finding": "A combination of optimal sleep, high diet quality, and high leisure-time physical activity or transportational physical activity is associated with the lowest all-cause mortality risk. Modest combined increments in SPAN are associated with lower all-cause mortality among US adults across physical activity domains.",
+        "limitation": "The study did not directly examine the relationship between sleep duration and exercise, which may be an important aspect of the narrative."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Association of obstructive sleep apnoea with exercise capacity and mortality in a population-based study: results of SHIP-TREND.",
+        "pmid": "42516907",
+        "year": "2026",
+        "semantic_relevance": 0.666
+      },
+      {
+        "title": "Association of Physical Activity, Sleep Duration, and Trouble Sleeping With Survival Among US Cancer Survivors: A Population-Based Cohort Study.",
+        "pmid": "42276573",
+        "year": "2026",
+        "semantic_relevance": 0.652
+      },
+      {
+        "title": "Combined sleep, domain-specific physical activity, and nutrition in relation to all-cause mortality among US adults",
+        "pmid": null,
+        "year": "2026",
+        "semantic_relevance": 0.636
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "verdict": "MIXED",
+    "summary": "Bedbug bites can cause psychological symptoms such as anxiety, stress, and hopelessness, as well as systemic symptoms like anemia in severe cases. However, the evidence does not consistently support the claim that bedbugs cause people to lose sleep and blood. The prevalence of bed bug infestation varies across different regions, with some areas having higher rates than others.",
+    "papers": [
+      {
+        "paper": 1,
+        "relationship": "SUPPORTS",
+        "finding": "Bedbug bites usually occur during sleep and can cause difficulties sleeping or restlessness, as well as moderate to severe impact on mental and emotional health.",
+        "limitation": "The study only included bedbug victims and did not control for other factors that may affect sleep quality."
+      },
+      {
+        "paper": 2,
+        "relationship": "SUPPORTS",
+        "finding": "Psychological symptoms such as anxiety, stress, and hopelessness were reported in a small subset of cases, while systemic complications were rare.",
+        "limitation": "The review only included case reports and did not provide a comprehensive overview of the health impacts of bedbug bites."
+      },
+      {
+        "paper": 3,
+        "relationship": "UNCLEAR",
+        "finding": "The prevalence of bed bug infestation was estimated to be 9.61% in Ahvaz city, but the study did not provide direct evidence of the health impacts of bedbug bites.",
+        "limitation": "The study only measured the spatial distribution of bed bug infestation and did not investigate the health effects of bedbug bites."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Impact of Bedbug (<i>Cimex</i> spp.) Bites on Self-Rated Health and Average Hours of Sleep per Day: A Cross-Sectional Study among Hong Kong Bedbug Victims.",
+        "pmid": "34821827",
+        "year": "2021",
+        "semantic_relevance": 0.643
+      },
+      {
+        "title": "Clinical manifestations of bed bug bites: A systematic review of case reports.",
+        "pmid": "42054290",
+        "year": "2026",
+        "semantic_relevance": 0.454
+      },
+      {
+        "title": "Prevalence and Spatial Distribution of Bed Bug, <i>Cimex lectularius</i>, Infestation in Southwest of Iran: GIS Approach.",
+        "pmid": "32766346",
+        "year": "2020",
+        "semantic_relevance": 0.441
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "verdict": "MIXED",
+    "summary": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia. The evidence suggests that physical activity, sleep quality, and nutritional patterns may influence mood-gait relationships and dementia risk. However, the relationship between walking and dementia risk is not fully established, and more research is needed to confirm the benefits of regular walking.",
+    "papers": [
+      {
+        "paper": 1,
+        "relationship": "PARTIAL",
+        "finding": "Higher baseline physical activity levels attenuate the relationship between positive emotions and gait rhythm, suggesting that active individuals maintain more stable gait timing regardless of emotional state.",
+        "limitation": "The study only examined the relationship between physical activity and gait rhythm, and did not directly investigate the relationship between walking and dementia risk."
+      },
+      {
+        "paper": 2,
+        "relationship": "PARTIAL",
+        "finding": "Participation in Japanese croquet and strength exercise was associated with a significantly lower risk of developing dementia.",
+        "limitation": "The study only examined the relationship between specific types of exercise and dementia risk, and did not investigate the relationship between walking and dementia risk."
+      },
+      {
+        "paper": 3,
+        "relationship": "UNCLEAR",
+        "finding": "None",
+        "limitation": "The study protocol does not provide direct evidence on the relationship between walking and dementia risk."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lifestyle factors moderate emotion-gait coupling in young adults.",
+        "pmid": "42257895",
+        "year": "2026",
+        "semantic_relevance": 0.531
+      },
+      {
+        "title": "Types of Exercise and Risk of Developing Dementia in Older Japanese Community-Dwelling Adults: A Prospective Study.",
+        "pmid": "42571904",
+        "year": "2026",
+        "semantic_relevance": 0.529
+      },
+      {
+        "title": "Dementia transition in early cognitive decline trajectories (DETECT) study: a prospective longitudinal study protocol.",
+        "pmid": "42265623",
+        "year": "2026",
+        "semantic_relevance": 0.435
+      }
+    ]
+  }
+]

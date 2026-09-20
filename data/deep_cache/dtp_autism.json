@@ -1,0 +1,101 @@
+{
+  "cache_id": "dtp_autism",
+  "analysis_type": "DEEP_ANALYSIS",
+  "title": "DTP vaccination and autism",
+  "canonical_claim": "DTP vaccination causes autism.",
+  "match_terms": [
+    "dtp vaccine",
+    "dtp vaccination",
+    "causes autism",
+    "vaccine causes autism",
+    "vaccines have ever been tested for autism",
+    "cdc threw out the study"
+  ],
+  "diffusion": {
+    "observed_posts": 233,
+    "unique_participants": 231,
+    "posts_per_hour": 37.52,
+    "max_observed_reposts": 7113,
+    "first_seen": "2026-08-16T20:00:15-04:00",
+    "last_seen": "2026-08-17T02:12:53-04:00",
+    "persistence_minutes": 372.63
+  },
+  "meme_dna": {
+    "mutation_status": "OBSERVED_VARIATION",
+    "distinct_variants": 3,
+    "variants": [
+      {
+        "id": "V1",
+        "claim": "RFK Jr: “CDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.” “NONE of the vaccines have ever been tested for…",
+        "evidence_alignment": "VERY_LOW"
+      },
+      {
+        "id": "V2",
+        "claim": "🚨RFK JR JUST DROPPED THE QUIET PART OUT LOUD CDC threw out the only study that actually tested a vaccine for autism. The DT…",
+        "evidence_alignment": "VERY_LOW"
+      },
+      {
+        "id": "V3",
+        "claim": "RFK Jr: “CDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.” “NONE of the vaccines have ever been tested for Autism. The only one tested was DTP... THAT study FOUND the link... CDC threw it out.” They KNEW. They buried the evidence. And kept injecting our babies anyway.",
+        "evidence_alignment": "VERY_LOW"
+      }
+    ],
+    "semantic_mutations": [
+      {
+        "from": "V1",
+        "to": "V2",
+        "cosine_similarity": 0.716,
+        "distance": 0.284
+      },
+      {
+        "from": "V2",
+        "to": "V3",
+        "cosine_similarity": 0.714,
+        "distance": 0.286
+      }
+    ]
+  },
+  "evidence": {
+    "verdict": "REFUTED",
+    "summary": "The evidence from the meta-analysis of case-control and cohort studies suggests that vaccinations are not associated with the development of autism or autism spectrum disorder, contradicting the claim that DTP vaccination causes autism.",
+    "sources": [
+      {
+        "title": "Vaccines are not associated with autism: an evidence-based meta-analysis of case-control and cohort studies.",
+        "pmid": "24814559",
+        "year": "2014",
+        "semantic_relevance": 0.693
+      },
+      {
+        "title": "An evaluation of the effects of thimerosal on neurodevelopmental disorders reported following DTP and Hib vaccines in comparison to DTPH vaccine in the United States.",
+        "pmid": "16766480",
+        "year": "2006",
+        "semantic_relevance": 0.502
+      },
+      {
+        "title": "Aluminium adjuvants in vaccines and potential health effects: systematic review.",
+        "pmid": "42091164",
+        "year": "2026",
+        "semantic_relevance": 0.36
+      }
+    ]
+  },
+  "divergence": {
+    "alignment": "VERY_LOW",
+    "overall_level": "HIGH",
+    "largest_divergence": "V3",
+    "baseline": "The evidence from the meta-analysis of case-control and cohort studies suggests that vaccinations are not associated with the development of autism or autism spectrum disorder, contradicting the claim that DTP vaccination causes autism.",
+    "interpretation": "The observed narrative presents a causal relationship, while the evaluated scientific evidence does not support that causal claim."
+  },
+  "behavior": {
+    "signal_posts": 0,
+    "analyzed_posts": 233,
+    "rate": 0.0,
+    "detected": false
+  },
+  "priority": {
+    "label": "WATCH",
+    "flag": "👀",
+    "rationale": "The narrative is repeatedly transmitted and shows high Meme–Evidence Divergence, but no explicit behavioral intention was detected in the analyzed posts."
+  },
+  "method_note": "Deep Analysis combines cultural diffusion, observed narrative variation, scientific evidence evaluation, Meme–Evidence Divergence, and explicit behavioral-intention detection."
+}

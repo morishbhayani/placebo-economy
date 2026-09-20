@@ -1,0 +1,57 @@
+[
+  {
+    "seed_number": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "status": "EMERGING_CLAIM",
+    "additional_matching_posts": 0,
+    "additional_authors": 0,
+    "matches": []
+  },
+  {
+    "seed_number": 2,
+    "claim": "Finishing your last meal around 3 hours before sleep may be associated with healthier metabolic patterns.",
+    "status": "EMERGING_CLAIM",
+    "additional_matching_posts": 0,
+    "additional_authors": 0,
+    "matches": []
+  },
+  {
+    "seed_number": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "status": "EMERGING_CLAIM",
+    "additional_matching_posts": 0,
+    "additional_authors": 0,
+    "matches": []
+  },
+  {
+    "seed_number": 4,
+    "claim": "Deep sleep dipping under 20% is associated with low HRV",
+    "status": "EMERGING_CLAIM",
+    "additional_matching_posts": 0,
+    "additional_authors": 0,
+    "matches": []
+  },
+  {
+    "seed_number": 5,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "status": "REPEATED_MEME",
+    "additional_matching_posts": 1,
+    "additional_authors": 1,
+    "matches": [
+      {
+        "similarity": 0.9732948541641235,
+        "id": "2089212519193715024",
+        "author_id": "980128108853460993",
+        "text": "Bedbugs can cause people to lose sleep - and blood. Here's what to do about them"
+      }
+    ]
+  },
+  {
+    "seed_number": 6,
+    "claim": "Hushd Avera anti-snoring mouthpiece is meant to improve rest",
+    "status": "EMERGING_CLAIM",
+    "additional_matching_posts": 0,
+    "additional_authors": 0,
+    "matches": []
+  }
+]

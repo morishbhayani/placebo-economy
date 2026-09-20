@@ -1,0 +1,121 @@
+{
+  "cache_id": "regular_walking_and_incremental_increases_in_daily_step_coun",
+  "analysis_type": "DEEP_ANALYSIS",
+  "title": "Regular walking and incremental increases in daily step counts improve sleep, mood, cardiovascular health, brain aging, and reduce the risk of dementia.",
+  "canonical_claim": "Regular walking and incremental increases in daily step counts improve sleep, mood, cardiovascular health, brain aging, and reduce the risk of dementia.",
+  "match_terms": [
+    "currently",
+    "taking",
+    "steps",
+    "exercise",
+    "only",
+    "good",
+    "improving",
+    "heart",
+    "currently taking",
+    "currently taking steps"
+  ],
+  "analysis_provider": "Gemini",
+  "diffusion": {
+    "observed_posts": 1,
+    "unique_participants": 1,
+    "posts_per_hour": null,
+    "max_observed_reposts": 15,
+    "first_seen": "2026-08-16T20:01:08-04:00",
+    "last_seen": "2026-08-16T20:01:08-04:00",
+    "persistence_minutes": 0
+  },
+  "meme_dna": {
+    "mutation_status": "NO_OBSERVED_VARIATION",
+    "distinct_variants": 1,
+    "variants": [
+      {
+        "id": "V1",
+        "claim": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+        "evidence_alignment": "PARTIAL"
+      }
+    ],
+    "semantic_mutations": []
+  },
+  "evidence": {
+    "verdict": "MIXED",
+    "summary": "The provided evidence offers partial, mixed support for components of the claim, particularly regarding cognition, dementia risk, and mood, but lacks evidence for sleep and demonstrates notable limitations. Higher daily step counts were cross-sectionally associated with better cognition, lower odds of cognitive impairment, and fewer depressive symptoms, but longitudinally failed to predict changes in cognition, depression, or anxiety (the latter was even cross-sectionally higher with more steps). Furthermore, step count associations with cardiometabolic markers largely disappeared after adjusting for age and sex, and key aspects of the claim like sleep were not assessed.",
+    "sources": [
+      {
+        "pmid": "41718056",
+        "title": "Limitations of Daily Step Count for Assessing Health in Older Adults: The Need to Consider Walking Intensity.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.688,
+        "relationship": "PARTIAL",
+        "finding": "Meeting age-specific step recommendations was associated with better anthropometric, psychosocial, and cardiometabolic markers, but many differences disappeared after adjusting for age and sex, leading authors to conclude daily step count alone may be insufficient without considering intensity.",
+        "limitation": "Cross-sectional analysis that found attenuated cardiometabolic and psychosocial benefits after demographic adjustment, and did not evaluate sleep, brain aging, or dementia."
+      },
+      {
+        "pmid": null,
+        "title": "Differential association of step count with depressive and anxiety symptoms in older adults at risk of dementia",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.578,
+        "relationship": "PARTIAL",
+        "finding": "In older adults at risk of dementia, higher step counts were cross-sectionally linked to fewer depressive symptoms but unexpectedly more anxiety symptoms; longitudinally, changes in step count were not associated with changes in mood symptoms over 24 months.",
+        "limitation": "Observational and longitudinal analyses did not show mood improvement over time, showed conflicting effects on anxiety, and did not measure sleep, cardiovascular outcomes, or brain aging."
+      },
+      {
+        "pmid": "42318286",
+        "title": "Accelerometer-derived daily steps, cognition, and cognitive impairment in U.S. community-dwelling older adults: The Atherosclerosis Risk in Communities Study.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.575,
+        "relationship": "PARTIAL",
+        "finding": "Higher daily step counts were cross-sectionally associated with better executive function and 54% lower odds of prevalent cognitive impairment/dementia, plateauing around 4,000 steps/day.",
+        "limitation": "Step counts were not associated with 4-year cognitive change, and the cross-sectional association cannot rule out reverse causation; sleep, mood, and cardiovascular health were not assessed."
+      },
+      {
+        "pmid": "42683797",
+        "title": "SoUth Korean study to PrEvent cognitive impaiRment and protect BRAIN health via Behavioral, Optimized, Organized Movement therapy (SUPERBRAIN-BOOM) in Mild Cognitive Impairment: Protocol for a Multicenter, Randomized Controlled Feasibility Trial.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.523,
+        "relationship": "RELATED_ONLY",
+        "finding": "Presents a protocol for a feasibility trial of a mobile multidomain lifestyle intervention (SUPERBRAIN-BOOM) combining dance-based movement, nutrition, and meditation in adults with mild cognitive impairment.",
+        "limitation": "Study protocol with no reported results or data evaluating the specific health claim."
+      },
+      {
+        "pmid": "42076551",
+        "title": "Accelerated Brain Aging Identifies Functional Vulnerability Beyond Chronological Age in Multiple Sclerosis.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.507,
+        "relationship": "RELATED_ONLY",
+        "finding": "Accelerated brain aging (Brain-PAD) in multiple sclerosis was cross-sectionally associated with lower moderate-to-vigorous physical activity and worse balance control.",
+        "limitation": "Investigated physical activity as a correlate of brain aging in a small MS cohort without testing whether walking or step count increments improve brain aging or other claimed outcomes."
+      }
+    ]
+  },
+  "divergence": {
+    "alignment": "PARTIAL",
+    "overall_level": "MODERATE",
+    "largest_divergence": "V1",
+    "baseline": "The provided evidence offers partial, mixed support for components of the claim, particularly regarding cognition, dementia risk, and mood, but lacks evidence for sleep and demonstrates notable limitations. Higher daily step counts were cross-sectionally associated with better cognition, lower odds of cognitive impairment, and fewer depressive symptoms, but longitudinally failed to predict changes in cognition, depression, or anxiety (the latter was even cross-sectionally higher with more steps). Furthermore, step count associations with cardiometabolic markers largely disappeared after adjusting for age and sex, and key aspects of the claim like sleep were not assessed.",
+    "interpretation": "The narrative was compared with the retrieved scientific evidence. Overall evidence alignment is PARTIAL and Meme–Evidence Divergence is MODERATE."
+  },
+  "behavior": {
+    "signal_posts": 1,
+    "analyzed_posts": 1,
+    "rate": 1.0,
+    "detected": true,
+    "posts": [
+      {
+        "id": "2089140432437739972",
+        "text": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\""
+      }
+    ]
+  },
+  "priority": {
+    "flag": "🟠",
+    "label": "BEHAVIOR_ACTIVE_WATCH",
+    "rationale": "The narrative has moderate evidence divergence and explicit behavioral activation."
+  },
+  "method_note": "Fresh Deep Analysis combines semantic narrative variation, scientific-literature retrieval, evidence evaluation, Meme–Evidence Divergence, and explicit behavioral-intention detection."
+}

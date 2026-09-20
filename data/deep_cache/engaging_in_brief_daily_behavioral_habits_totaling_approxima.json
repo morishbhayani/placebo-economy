@@ -1,0 +1,116 @@
+{
+  "cache_id": "engaging_in_brief_daily_behavioral_habits_totaling_approxima",
+  "analysis_type": "DEEP_ANALYSIS",
+  "title": "Engaging in brief daily behavioral habits totaling approximately 25 minutes improves mood, sleep quality, focus, and overall mental health.",
+  "canonical_claim": "Engaging in brief daily behavioral habits totaling approximately 25 minutes improves mood, sleep quality, focus, and overall mental health.",
+  "match_terms": [
+    "ever",
+    "wondered",
+    "minutes",
+    "boost",
+    "happiness",
+    "energy",
+    "mental",
+    "peace",
+    "ever wondered",
+    "ever wondered minutes"
+  ],
+  "analysis_provider": "Gemini",
+  "diffusion": {
+    "observed_posts": 1,
+    "unique_participants": 1,
+    "posts_per_hour": null,
+    "max_observed_reposts": 0,
+    "first_seen": "2026-08-16T22:18:50-04:00",
+    "last_seen": "2026-08-16T22:18:50-04:00",
+    "persistence_minutes": 0
+  },
+  "meme_dna": {
+    "mutation_status": "NO_OBSERVED_VARIATION",
+    "distinct_variants": 1,
+    "variants": [
+      {
+        "id": "V1",
+        "claim": "Have you ever wondered if just 25 minutes a day can boost your happiness, energy, and mental peace? In this video, I explore 3 simple habits based on science that can help improve your mood, sleep, focus, and mental health.",
+        "evidence_alignment": "UNKNOWN"
+      }
+    ],
+    "semantic_mutations": []
+  },
+  "evidence": {
+    "verdict": "INSUFFICIENT",
+    "summary": "None of the provided studies evaluate an intervention consisting of brief daily behavioral habits totaling approximately 25 minutes. While several papers discuss general lifestyle interventions, daily actions, and social rhythms in relation to mental well-being, they do not quantify or directly test the specific 25-minute daily habit regimen specified in the claim.",
+    "sources": [
+      {
+        "pmid": "42069911",
+        "title": "Measuring and increasing the brain health span across adulthood: a public health imperative.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.501,
+        "relationship": "RELATED_ONLY",
+        "finding": "Higher engagement with cognitive training, lifestyle modules, and brain-healthy habits over three years was associated with improved cognitive function, connectedness, and emotional balance.",
+        "limitation": "Did not evaluate a specific daily habit routine totaling approximately 25 minutes."
+      },
+      {
+        "pmid": "41529169",
+        "title": "Exploring Perceived Changes to Mental Health When Restricting and Resuming Specific Adaptive Daily Actions: Longitudinal Qualitative Substudy Within a Randomized Controlled Trial.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.496,
+        "relationship": "RELATED_ONLY",
+        "finding": "Restricting and subsequently resuming adaptive everyday actions ('The Things You Do') subjectively altered mood, energy, and perceived mental health in healthy adults.",
+        "limitation": "Qualitative substudy that examined broad daily activities without defining or testing a 25-minute daily habit duration."
+      },
+      {
+        "pmid": "42039012",
+        "title": "The nine hallmarks of mental health and wellbeing as a watershed framework for resilient living and healthspan optimization.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.454,
+        "relationship": "RELATED_ONLY",
+        "finding": "Proposes a conceptual 'watershed framework' of nine hallmarks of mental health and well-being to guide lifestyle interventions.",
+        "limitation": "Theoretical framework providing no empirical trial data testing a 25-minute daily behavioral intervention."
+      },
+      {
+        "pmid": "42196676",
+        "title": "Social Rhythms, Depressive Symptoms, and Quality of Life: An Unbreakable Bond in an Older Adult Sample.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.42,
+        "relationship": "RELATED_ONLY",
+        "finding": "Cross-sectional data in older adults showed social rhythm dysregulation was correlated with higher depressive symptoms and lower quality of life.",
+        "limitation": "Observational cross-sectional design that did not test an intervention or a specific 25-minute daily habit protocol."
+      },
+      {
+        "pmid": "42403615",
+        "title": "A self-management intervention for bipolar disorder using a WeChat mini program (Mood Calm): study protocol for intervention design, development, and a preliminary trial.",
+        "year": "2026",
+        "journal": "",
+        "semantic_relevance": 0.417,
+        "relationship": "RELATED_ONLY",
+        "finding": "Demonstrated the feasibility and usability of a digital self-management app ('Mood Calm') for bipolar disorder in a 4-week preliminary study with five participants.",
+        "limitation": "Small feasibility pilot protocol focused on bipolar disorder self-management without evaluating a general 25-minute daily behavioral habit intervention."
+      }
+    ]
+  },
+  "divergence": {
+    "alignment": "UNKNOWN",
+    "overall_level": "UNRESOLVED",
+    "largest_divergence": "V1",
+    "baseline": "None of the provided studies evaluate an intervention consisting of brief daily behavioral habits totaling approximately 25 minutes. While several papers discuss general lifestyle interventions, daily actions, and social rhythms in relation to mental well-being, they do not quantify or directly test the specific 25-minute daily habit regimen specified in the claim.",
+    "interpretation": "The narrative was compared with the retrieved scientific evidence. Overall evidence alignment is UNKNOWN and Meme–Evidence Divergence is UNRESOLVED."
+  },
+  "behavior": {
+    "signal_posts": 0,
+    "analyzed_posts": 1,
+    "rate": 0.0,
+    "detected": false,
+    "posts": []
+  },
+  "priority": {
+    "flag": "👀",
+    "label": "WATCH",
+    "rationale": "Scientific evidence is currently unresolved for the central proposition."
+  },
+  "method_note": "Fresh Deep Analysis combines semantic narrative variation, scientific-literature retrieval, evidence evaluation, Meme–Evidence Divergence, and explicit behavioral-intention detection."
+}

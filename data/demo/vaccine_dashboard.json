@@ -1,0 +1,154 @@
+{
+  "keyword": "vaccine",
+  "mode": "FAST_SCAN",
+  "observation_window": {
+    "first": "2026-08-16 20:00:15-04:00",
+    "last": "2026-08-17 02:13:53-04:00"
+  },
+  "narratives": [
+    {
+      "rank": 1,
+      "claim": "RFK Jr: “CDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.” “NONE of the vaccines have ever been tested for Autism. The only one tested was DTP... THAT study FOUND the link... CDC threw it out.” They KNEW. They buried the evidence. And kept injecting our babies anyway.",
+      "maturity": "REPEATED_MEME",
+      "diffusion": {
+        "observed_posts": 233,
+        "unique_participants": 231,
+        "first_seen": "2026-08-16 20:00:15-04:00",
+        "last_seen": "2026-08-17 02:12:53-04:00",
+        "persistence_minutes": 372.63,
+        "posts_per_hour": 37.52,
+        "max_retweets": 7113,
+        "max_likes": 8,
+        "max_views": 623
+      },
+      "meme_dna": {
+        "distinct_variants": 1,
+        "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION",
+        "variants": [
+          {
+            "variant": "V1",
+            "text": "RFK Jr: “CDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.” “NONE of the vaccines have ever been tested for…",
+            "observed_count": 233,
+            "unique_authors": 231
+          }
+        ],
+        "mutations": []
+      },
+      "evidence": {
+        "verdict": "NOT_RUN_FAST_SCAN",
+        "summary": "Scientific evidence analysis is not run during Fast Scan. Fast Scan prioritizes immediate cultural-signal discovery.",
+        "sources": []
+      },
+      "divergence": {
+        "alignment": "NOT_ANALYZED",
+        "level": "UNRESOLVED"
+      },
+      "behavior": {
+        "detected": false,
+        "posts": 0,
+        "rate": 0
+      },
+      "priority": {
+        "flag": "🔵",
+        "label": "REPEATED_NARRATIVE",
+        "rationale": "Repeated independently in the observed dataset."
+      }
+    },
+    {
+      "rank": 2,
+      "claim": "The new Moderna mRNA flu Vaccines are going to cause a \"Pandemic of the Vaccinated\" if they get any traction in the popu…",
+      "maturity": "REPEATED_MEME",
+      "diffusion": {
+        "observed_posts": 111,
+        "unique_participants": 111,
+        "first_seen": "2026-08-16 20:01:19-04:00",
+        "last_seen": "2026-08-17 01:59:10-04:00",
+        "persistence_minutes": 357.85,
+        "posts_per_hour": 18.61,
+        "max_retweets": 3868,
+        "max_likes": 0,
+        "max_views": 22
+      },
+      "meme_dna": {
+        "distinct_variants": 1,
+        "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION",
+        "variants": [
+          {
+            "variant": "V1",
+            "text": "The new Moderna mRNA flu Vaccines are going to cause a \"Pandemic of the Vaccinated\" if they get any traction in the popu…",
+            "observed_count": 111,
+            "unique_authors": 111
+          }
+        ],
+        "mutations": []
+      },
+      "evidence": {
+        "verdict": "NOT_RUN_FAST_SCAN",
+        "summary": "Scientific evidence analysis is not run during Fast Scan. Fast Scan prioritizes immediate cultural-signal discovery.",
+        "sources": []
+      },
+      "divergence": {
+        "alignment": "NOT_ANALYZED",
+        "level": "UNRESOLVED"
+      },
+      "behavior": {
+        "detected": false,
+        "posts": 0,
+        "rate": 0
+      },
+      "priority": {
+        "flag": "🔵",
+        "label": "REPEATED_NARRATIVE",
+        "rationale": "Repeated independently in the observed dataset."
+      }
+    },
+    {
+      "rank": 3,
+      "claim": "Nov.24, 2021 - First published case of Pfizer COVID-19 mRNA Vaccine induced \"Turbo Cancer\" Patient: 66 year old Belgian…",
+      "maturity": "REPEATED_MEME",
+      "diffusion": {
+        "observed_posts": 85,
+        "unique_participants": 85,
+        "first_seen": "2026-08-16 20:01:23-04:00",
+        "last_seen": "2026-08-17 02:04:10-04:00",
+        "persistence_minutes": 362.78,
+        "posts_per_hour": 14.06,
+        "max_retweets": 3692,
+        "max_likes": 0,
+        "max_views": 138
+      },
+      "meme_dna": {
+        "distinct_variants": 1,
+        "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION",
+        "variants": [
+          {
+            "variant": "V1",
+            "text": "Nov.24, 2021 - First published case of Pfizer COVID-19 mRNA Vaccine induced \"Turbo Cancer\" Patient: 66 year old Belgian…",
+            "observed_count": 85,
+            "unique_authors": 85
+          }
+        ],
+        "mutations": []
+      },
+      "evidence": {
+        "verdict": "NOT_RUN_FAST_SCAN",
+        "summary": "Scientific evidence analysis is not run during Fast Scan. Fast Scan prioritizes immediate cultural-signal discovery.",
+        "sources": []
+      },
+      "divergence": {
+        "alignment": "NOT_ANALYZED",
+        "level": "UNRESOLVED"
+      },
+      "behavior": {
+        "detected": false,
+        "posts": 0,
+        "rate": 0
+      },
+      "priority": {
+        "flag": "🔵",
+        "label": "REPEATED_NARRATIVE",
+        "rationale": "Repeated independently in the observed dataset."
+      }
+    }
+  ]
+}

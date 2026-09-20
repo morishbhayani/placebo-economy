@@ -1,0 +1,14 @@
+[
+  {
+    "rank": 1,
+    "claim": "DTP vaccination causes autism.",
+    "evidence_verdict": "REFUTED",
+    "evidence_alignment": "VERY_LOW",
+    "meme_evidence_divergence": "HIGH",
+    "evidence_summary": "The evidence from the meta-analysis of case-control and cohort studies suggests that vaccinations are not associated with the development of autism or autism spectrum disorder, contradicting the claim that DTP vaccination causes autism.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 233,
+    "unique_participants": 231,
+    "mutation_status": "OBSERVED_VARIATION"
+  }
+]

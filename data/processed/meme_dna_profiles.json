@@ -1,0 +1,53 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 9,
+    "distinct_variants": 1,
+    "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION",
+    "variants": [
+      {
+        "variant": "V1",
+        "text": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise. In a study\u2026",
+        "observed_count": 9,
+        "unique_authors": 9
+      }
+    ],
+    "mutations": []
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 2,
+    "distinct_variants": 1,
+    "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION",
+    "variants": [
+      {
+        "variant": "V1",
+        "text": "Bedbugs can cause people to lose sleep - and blood. Here's what to do about them",
+        "observed_count": 2,
+        "unique_authors": 2
+      }
+    ],
+    "mutations": []
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "maturity": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "distinct_variants": 1,
+    "mutation_status": "INSUFFICIENT_FOR_MUTATION_ANALYSIS",
+    "variants": [
+      {
+        "variant": "V1",
+        "text": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+        "observed_count": 1,
+        "unique_authors": 1
+      }
+    ],
+    "mutations": []
+  }
+]

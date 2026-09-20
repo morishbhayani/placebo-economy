@@ -1,0 +1,44 @@
+[
+  {
+    "original_post": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise. In a study\u2026",
+    "canonical_claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "exposure_quote": "People who sleep enough but don't exercise",
+    "outcome_quote": "have a higher mortality risk than people who sleep less but exercise",
+    "verification": "KEEP"
+  },
+  {
+    "original_post": "4. Those who avoid eating right before bed. Some research has linked longer overnight fasting with healthier metabolic patterns. Try finishing your last meal around 3 hours before sleep.",
+    "canonical_claim": "Finishing your last meal around 3 hours before sleep may be associated with healthier metabolic patterns.",
+    "exposure_quote": "Those who avoid eating right before bed",
+    "outcome_quote": "longer overnight fasting with healthier metabolic patterns",
+    "verification": "KEEP"
+  },
+  {
+    "original_post": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+    "canonical_claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "exposure_quote": "If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000.",
+    "outcome_quote": "Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.",
+    "verification": "KEEP"
+  },
+  {
+    "original_post": "just checked the Nucleus leaderboard for @sleepagotchi eleven days left and that quiet pressure settles in started chatting with the Sleep Coach about my last few nights it pointed out some hyper specific data: - deep sleep dipping under 20% - linked it straight to my HRV",
+    "canonical_claim": "Deep sleep dipping under 20% is associated with low HRV",
+    "exposure_quote": "linked it straight to my HRV",
+    "outcome_quote": "deep sleep dipping under 20%",
+    "verification": "KEEP"
+  },
+  {
+    "original_post": "Bedbugs can cause people to lose sleep \u2014 and blood. Here's what to do about them",
+    "canonical_claim": "Bedbugs can cause people to lose sleep and blood",
+    "exposure_quote": "Bedbugs can cause people to lose sleep \u2014 and blood",
+    "outcome_quote": "Here's what to do about them",
+    "verification": "KEEP"
+  },
+  {
+    "original_post": "Looking to improve your sleep this fall? The FDA-cleared Hushd Avera anti-snoring mouthpiece molds at home in about 2 minutes and is meant to improve rest.",
+    "canonical_claim": "improve rest",
+    "exposure_quote": "FDA-cleared Hushd Avera anti-snoring mouthpiece molds at home in about 2 minutes",
+    "outcome_quote": "improve rest",
+    "verification": "KEEP"
+  }
+]

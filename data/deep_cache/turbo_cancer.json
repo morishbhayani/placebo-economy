@@ -1,0 +1,118 @@
+{
+  "cache_id": "turbo_cancer",
+  "analysis_type": "DEEP_ANALYSIS",
+  "title": "COVID-19 mRNA vaccines and \u201cturbo cancer\u201d",
+  "canonical_claim": "COVID-19 mRNA vaccines cause turbo cancer",
+  "match_terms": [
+    "turbo cancer",
+    "turbo-cancer",
+    "pfizer",
+    "mrna",
+    "vaccine"
+  ],
+  "diffusion": {
+    "observed_posts": 12,
+    "unique_participants": 12,
+    "posts_per_hour": 10.29,
+    "max_observed_reposts": 3553,
+    "first_seen": "2026-08-16 20:01:23-04:00",
+    "last_seen": "2026-08-16 21:11:17-04:00",
+    "persistence_minutes": 70
+  },
+  "meme_dna": {
+    "variants": [
+      {
+        "id": "V1",
+        "claim": "Pfizer COVID-19 mRNA vaccine induces 'turbo cancer'",
+        "evidence_alignment": "LOW"
+      },
+      {
+        "id": "V2",
+        "claim": "COVID vaccines raise the risk of multiple cancers",
+        "evidence_alignment": "PARTIAL"
+      },
+      {
+        "id": "V3",
+        "claim": "mRNA vaccines cause turbo cancer and are purely harmful",
+        "evidence_alignment": "VERY LOW"
+      }
+    ],
+    "semantic_mutations": [
+      {
+        "from": "V1",
+        "to": "V2",
+        "distance": 0.422
+      },
+      {
+        "from": "V2",
+        "to": "V3",
+        "distance": 0.528
+      }
+    ]
+  },
+  "evidence": {
+    "verdict": "INSUFFICIENT_FOR_CAUSATION",
+    "summary": "Some observational studies and case reports describe cancer diagnoses or cancer-related signals following COVID-19 vaccination, but the retrieved evidence does not establish a causal relationship or demonstrate a distinct clinical phenomenon called turbo cancer.",
+    "availability": {
+      "direct_population_cohorts": 2,
+      "literature_reviews": 1,
+      "methodological_critiques": 1,
+      "commentaries": 1
+    },
+    "sources": [
+      {
+        "pmid": "41013858",
+        "year": 2025,
+        "study_type": "retrospective population cohort",
+        "finding": "Reported increased one-year hazard ratios for several cancer diagnoses among vaccinated individuals.",
+        "limitation": "Observational association does not establish causation."
+      },
+      {
+        "pmid": "40881928",
+        "year": 2025,
+        "study_type": "population cohort",
+        "finding": "Reported a modest association with cancer hospitalization in some analyses.",
+        "limitation": "Association changed with lag-time assumptions; authors reported possible healthy-vaccinee bias and unmeasured confounding."
+      },
+      {
+        "pmid": "41498242",
+        "year": 2026,
+        "study_type": "literature review",
+        "finding": "Identified case reports and population-level reports of cancers occurring temporally after vaccination or infection.",
+        "limitation": "Temporal association and case reports cannot establish causation."
+      },
+      {
+        "pmid": "42459262",
+        "year": 2026,
+        "study_type": "methodological analysis",
+        "finding": "Identified possible structural sampling bias capable of inflating cancer-risk associations in retrospective cohorts.",
+        "limitation": "Methodological critique rather than direct causal-effect study."
+      },
+      {
+        "pmid": "41988570",
+        "year": 2026,
+        "study_type": "commentary",
+        "finding": "Commentary on the South Korean cohort.",
+        "limitation": "No abstract retrieved; conclusion not inferred."
+      }
+    ]
+  },
+  "divergence": {
+    "baseline": "Observational cancer signals exist, but the retrieved evidence does not establish that mRNA COVID-19 vaccines cause rapidly developing cancers or a distinct turbo-cancer phenomenon.",
+    "interpretation": "The most important divergence occurs when a limited observational signal is transformed into categorical causal and universal-harm language.",
+    "largest_divergence": "V3",
+    "overall_level": "HIGH"
+  },
+  "behavior": {
+    "signal_posts": 0,
+    "analyzed_posts": 20,
+    "rate": 0.0,
+    "detected": false
+  },
+  "priority": {
+    "label": "WATCH",
+    "flag": "\ud83d\udc40",
+    "rationale": "The narrative diverges from the retrieved evidence, but no explicit behavioral intention was detected in the analyzed posts."
+  },
+  "method_note": "Deep Analysis combines observed cultural diffusion, semantic variation, scientific evidence retrieval, Meme\u2013Evidence Divergence, and explicit behavioral-intention detection."
+}

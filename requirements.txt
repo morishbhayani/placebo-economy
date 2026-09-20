@@ -1,3 +1,12 @@
 streamlit
 pandas
+altair
+numpy
+requests
+python-dotenv
+duckdb
+pyarrow
+scikit-learn
+sentence-transformers
+pytz
 graphviz

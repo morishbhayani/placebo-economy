@@ -1,0 +1,44 @@
+[
+  {
+    "rank": 1,
+    "claim": "DTP vaccination causes autism.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 233,
+    "distinct_variants": 3,
+    "mutation_status": "OBSERVED_VARIATION",
+    "variants": [
+      {
+        "variant": "V1",
+        "text": "RFK Jr: \u201cCDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.\u201d \u201cNONE of the vaccines have ever been tested for\u2026",
+        "observed_count": 140,
+        "unique_authors": 140
+      },
+      {
+        "variant": "V2",
+        "text": "\ud83d\udea8RFK JR JUST DROPPED THE QUIET PART OUT LOUD CDC threw out the only study that actually tested a vaccine for autism. The DT\u2026",
+        "observed_count": 91,
+        "unique_authors": 91
+      },
+      {
+        "variant": "V3",
+        "text": "RFK Jr: \u201cCDC THREW OUT THE STUDY SHOWING DTP VACCINE CAUSES AUTISM.\u201d \u201cNONE of the vaccines have ever been tested for Autism. The only one tested was DTP... THAT study FOUND the link... CDC threw it out.\u201d They KNEW. They buried the evidence. And kept injecting our babies anyway.",
+        "observed_count": 2,
+        "unique_authors": 2
+      }
+    ],
+    "mutations": [
+      {
+        "from": "V1",
+        "to": "V2",
+        "cosine_similarity": 0.716,
+        "semantic_mutation": 0.284
+      },
+      {
+        "from": "V2",
+        "to": "V3",
+        "cosine_similarity": 0.714,
+        "semantic_mutation": 0.286
+      }
+    ]
+  }
+]

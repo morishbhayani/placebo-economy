@@ -1,0 +1,49 @@
+{
+  "keyword": "sleep",
+  "total_matching_posts": 9145,
+  "mode": "FAST_SCAN",
+  "narratives": [
+    {
+      "claim": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+      "status": "EMERGING_CLAIM",
+      "observed_posts": 1,
+      "unique_authors": 1,
+      "max_retweets": 15,
+      "max_likes": 73,
+      "max_views": 1453,
+      "merged_variants": 1,
+      "posts": [
+        {
+          "id": "2089140432437739972",
+          "author_id": "3047925973",
+          "text": "\"If you're currently taking 3,000 steps a day, aim for 4,000. If you're at 5,000, try for 6,000. Exercise isn't only good for improving heart health. Regular walking is linked to better sleep, improved mood, healthier brain aging, and lower risk of dementia.\"",
+          "created_at": "2026-08-16 20:01:08-04:00",
+          "retweet_count": 15,
+          "like_count": 73,
+          "views_count": 1453
+        }
+      ]
+    },
+    {
+      "claim": "Have you ever wondered if just 25 minutes a day can boost your happiness, energy, and mental peace? In this video, I explore 3 simple habits based on science that can help improve your mood, sleep, focus, and mental health.",
+      "status": "EMERGING_CLAIM",
+      "observed_posts": 1,
+      "unique_authors": 1,
+      "max_retweets": 0,
+      "max_likes": 2,
+      "max_views": 119,
+      "merged_variants": 1,
+      "posts": [
+        {
+          "id": "2089175085928382588",
+          "author_id": "41854574",
+          "text": "Have you ever wondered if just 25 minutes a day can boost your happiness, energy, and mental peace? In this video, I explore 3 simple habits based on science that can help improve your mood, sleep, focus, and mental health.",
+          "created_at": "2026-08-16 22:18:50-04:00",
+          "retweet_count": 0,
+          "like_count": 2,
+          "views_count": 119
+        }
+      ]
+    }
+  ]
+}

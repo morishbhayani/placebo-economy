@@ -1,0 +1,29 @@
+[
+  {
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "status": "REPEATED_MEME",
+    "observed_posts": 9,
+    "unique_authors": 9,
+    "max_retweets": 83,
+    "max_likes": 0,
+    "max_views": 4
+  },
+  {
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "status": "REPEATED_MEME",
+    "observed_posts": 2,
+    "unique_authors": 2,
+    "max_retweets": 0,
+    "max_likes": 4,
+    "max_views": 6115
+  },
+  {
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "status": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_authors": 1,
+    "max_retweets": 15,
+    "max_likes": 73,
+    "max_views": 1453
+  }
+]

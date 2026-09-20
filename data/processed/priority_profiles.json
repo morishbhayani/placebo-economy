@@ -1,0 +1,44 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 9,
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "divergence": "MODERATE",
+    "behavior_detected": false,
+    "behavior_rate": 0.0,
+    "priority": "WATCH",
+    "flag": "\ud83d\udc40",
+    "rationale": "The claim only partially aligns with retrieved evidence, but no explicit behavioral activation was detected."
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 2,
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "divergence": "MODERATE",
+    "behavior_detected": false,
+    "behavior_rate": 0.0,
+    "priority": "WATCH",
+    "flag": "\ud83d\udc40",
+    "rationale": "The claim only partially aligns with retrieved evidence, but no explicit behavioral activation was detected."
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "maturity": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "divergence": "MODERATE",
+    "behavior_detected": true,
+    "behavior_rate": 1.0,
+    "priority": "BEHAVIOR_ACTIVE_WATCH",
+    "flag": "\ud83d\udfe0",
+    "rationale": "The claim only partially aligns with retrieved evidence and includes an explicit recommendation or behavioral signal."
+  }
+]

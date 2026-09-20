@@ -1,0 +1,56 @@
+[
+  {
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "status": "REPEATED_MEME",
+    "observed_posts": 9,
+    "unique_authors": 9,
+    "max_retweets": 83,
+    "max_likes": 0,
+    "max_views": 4
+  },
+  {
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "status": "REPEATED_MEME",
+    "observed_posts": 2,
+    "unique_authors": 2,
+    "max_retweets": 0,
+    "max_likes": 4,
+    "max_views": 6115
+  },
+  {
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "status": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_authors": 1,
+    "max_retweets": 15,
+    "max_likes": 73,
+    "max_views": 1453
+  },
+  {
+    "claim": "Deep sleep dipping under 20% is associated with low HRV",
+    "status": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_authors": 1,
+    "max_retweets": 12,
+    "max_likes": 281,
+    "max_views": 4887
+  },
+  {
+    "claim": "Hushd Avera anti-snoring mouthpiece is meant to improve rest",
+    "status": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_authors": 1,
+    "max_retweets": 2,
+    "max_likes": 8,
+    "max_views": 9929
+  },
+  {
+    "claim": "Finishing your last meal around 3 hours before sleep may be associated with healthier metabolic patterns.",
+    "status": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_authors": 1,
+    "max_retweets": 0,
+    "max_likes": 2,
+    "max_views": 2868
+  }
+]

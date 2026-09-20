@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "meme_evidence_divergence": "MODERATE",
+    "evidence_summary": "The evidence suggests that sufficient physical activity, adequate sleep, and good nutrition are associated with lower mortality risk among adults. However, the exact relationship between sleep duration, exercise, and mortality is complex and may vary depending on the physical activity domain.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 9,
+    "unique_participants": 9,
+    "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION"
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "meme_evidence_divergence": "MODERATE",
+    "evidence_summary": "Bedbug bites can cause psychological symptoms such as anxiety, stress, and hopelessness, as well as systemic symptoms like anemia in severe cases. However, the evidence does not consistently support the claim that bedbugs cause people to lose sleep and blood. The prevalence of bed bug infestation varies across different regions, with some areas having higher rates than others.",
+    "maturity": "REPEATED_MEME",
+    "observed_posts": 2,
+    "unique_participants": 2,
+    "mutation_status": "REPLICATION_WITHOUT_OBSERVED_MUTATION"
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "evidence_verdict": "MIXED",
+    "evidence_alignment": "PARTIAL",
+    "meme_evidence_divergence": "MODERATE",
+    "evidence_summary": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia. The evidence suggests that physical activity, sleep quality, and nutritional patterns may influence mood-gait relationships and dementia risk. However, the relationship between walking and dementia risk is not fully established, and more research is needed to confirm the benefits of regular walking.",
+    "maturity": "EMERGING_CLAIM",
+    "observed_posts": 1,
+    "unique_participants": 1,
+    "mutation_status": "INSUFFICIENT_FOR_MUTATION_ANALYSIS"
+  }
+]

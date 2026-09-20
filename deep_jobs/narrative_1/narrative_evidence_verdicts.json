@@ -1,0 +1,48 @@
+[
+  {
+    "rank": 1,
+    "claim": "DTP vaccination causes autism.",
+    "verdict": "REFUTED",
+    "summary": "The evidence from the meta-analysis of case-control and cohort studies suggests that vaccinations are not associated with the development of autism or autism spectrum disorder, contradicting the claim that DTP vaccination causes autism.",
+    "papers": [
+      {
+        "paper": 1,
+        "relationship": "SUPPORTS",
+        "finding": "The meta-analysis found no evidence of an association between vaccination and autism or ASD, and the components of the vaccines (thimerosal or mercury) or multiple vaccines (MMR) are not associated with the development of autism or autism spectrum disorder.",
+        "limitation": "The study only included data up to April 2014, which may not reflect more recent trends or changes in vaccination practices."
+      },
+      {
+        "paper": 2,
+        "relationship": "CONTRADICTS",
+        "finding": "The case-control study found significantly increased odds ratios for autism, speech disorders, mental retardation, infantile spasms, and thinking abnormalities reported to VAERS following DTP vaccines in comparison to DTPH vaccines.",
+        "limitation": "The study had minimal bias or systematic error, and the findings were not replicated in the meta-analysis."
+      },
+      {
+        "paper": 3,
+        "relationship": "UNCLEAR",
+        "finding": "The systematic review found no association between aluminium adjuvanted vaccines and serious or long term health outcomes, but noted that studies on macrophagic myofasciitis were generally small and methodologically limited.",
+        "limitation": "The review did not specifically address the claim that DTP vaccination causes autism, and the findings on aluminium adjuvants were not directly related to the narrative."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vaccines are not associated with autism: an evidence-based meta-analysis of case-control and cohort studies.",
+        "pmid": "24814559",
+        "year": "2014",
+        "semantic_relevance": 0.693
+      },
+      {
+        "title": "An evaluation of the effects of thimerosal on neurodevelopmental disorders reported following DTP and Hib vaccines in comparison to DTPH vaccine in the United States.",
+        "pmid": "16766480",
+        "year": "2006",
+        "semantic_relevance": 0.502
+      },
+      {
+        "title": "Aluminium adjuvants in vaccines and potential health effects: systematic review.",
+        "pmid": "42091164",
+        "year": "2026",
+        "semantic_relevance": 0.36
+      }
+    ]
+  }
+]

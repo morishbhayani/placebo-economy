@@ -1,0 +1,260 @@
+[
+  {
+    "rank": 1,
+    "claim": "People who sleep enough but don't exercise have a higher mortality risk than people who sleep less but exercise.",
+    "papers": [
+      {
+        "pmid": "42516907",
+        "pmcid": "PMC13402971",
+        "title": "Association of obstructive sleep apnoea with exercise capacity and mortality in a population-based study: results of SHIP-TREND.",
+        "authors": "Obst A, Stubbe B, Kaczmarek S, Daboul A, Kr\u00fcger M, V\u00f6lzke H, Penzel T, Fietze I, Ewert R.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Study objectives</h4>Sleep and physical fitness are interrelated, with cardiovascular risk factors potentially influencing this relationship. Sleep disturbances and reduced exercise capacity are linked to higher mortality. This study examined associations between sleep characteristics, cardiopulmonary exercise testing (CPET) measures and all-cause mortality, and assessed whether reduced exercise capacity mediates the link between impaired sleep and mortality.<h4>Methods</h4>We analysed 1001 participants from the population-based SHIP-TREND cohort (2008-2012) who underwent single-night polysomnography and symptom-limited CPET. Associations between sleep and CPET measures, as well as mortality, were assessed using multivariable linear and Cox regression models.<h4>Results</h4>The mean age of participants was 54 (range 44-63) years; 47.1% were women. The apnoea-hypopnoea index (AHI) was 4.9 (95% CI 1.4-13.7) events\u00b7h<sup>-1</sup> and higher in men (7.9, 95% CI 2.6-18.8) than in women (2.6, 95% CI 0.7-9.2; p<0.001). Peak oxygen uptake (<i>V</i>'<sub>O<sub>2</sub></sub> <sub>peak</sub>) was lower in women (22 (95% CI 18-25) mL\u00b7min<sup>-1</sup>\u00b7kg<sup>-1</sup>) than in men (27 (95% 22-32) mL\u00b7min<sup>-1</sup>\u00b7kg<sup>-1</sup>; p<0.001). Higher AHI and oxygen desaturation index were inversely associated with <i>V</i>'<sub>O<sub>2</sub></sub> <sub>peak</sub>. Over a median 10.3-year follow-up, 73 deaths occurred. AHI was significantly associated with all-cause mortality across models (hazard ratio 1.31-1.72). Mediation analysis demonstrated a significant direct effect, whereas the indirect effect <i>via V</i>'<sub>O<sub>2</sub></sub> <sub>peak</sub> was not statistically significant.<h4>Conclusions</h4>In the SHIP-TREND-0 cohort, elevated AHI is associated with reduced <i>V</i>'<sub>O<sub>2</sub></sub> <sub>peak</sub> and increased all-cause mortality. Mediation analysis suggested a possible, but not statistically significant, contribution of impaired cardiopulmonary fitness to the relationship between sleep apnoea and mortality, highlighting a potential role of fitness that warrants further investigation.",
+        "search_query": "sleep exercise mortality",
+        "semantic_relevance": 0.666
+      },
+      {
+        "pmid": "42276573",
+        "pmcid": null,
+        "title": "Association of Physical Activity, Sleep Duration, and Trouble Sleeping With Survival Among US Cancer Survivors: A Population-Based Cohort Study.",
+        "authors": "Chen J, Cai B, Su Y, Song C, Wu X, Lin Q, Huang K, Wang F.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background</h4>Few studies have explored the combined impact of physical activity (PA), sleep duration, and trouble sleeping on mortality outcomes in patients with cancer.<h4>Objective</h4>We aimed to investigate the independent and combined prognostic effects of PA and sleep on mortality outcomes among cancer survivors in the United States.<h4>Methods</h4>Using the National Health and Nutrition Examination Survey (2007-2018), data of 2651 cancer survivors were analyzed. Mortality was ascertained using the National Death Index. Kaplan-Meier curves and Cox proportional hazards models were used to evaluate associations.<h4>Results</h4>Independent analyses demonstrated reduced mortality risk among survivors with sufficient PA (PA \u2265 600 metabolic equivalent minutes/week) and adequate sleep time (7-9 hours/d), whereas those reporting trouble sleeping showed elevated risk. Joint analyses demonstrated that survivors with sufficient PA and either adequate sleep time or without trouble sleeping had significantly lower all-cause mortality (hazard ratio [HR]: 0.50, 95% confidence interval [CI]: 0.39-0.64; HR: 0.48, 95% CI: 0.37-0.62, respectively) and cancer-specific mortality (HR: 0.56, 95% CI: 0.36-0.86; HR: 0.46, 95% CI: 0.30-0.70, respectively). Importantly, abnormal sleep time (<7 or >9 hours/d) and trouble sleeping were not associated with risk of all-cause or noncancer mortality among individuals who achieved sufficient PA.<h4>Conclusions</h4>The combination of sufficient PA, adequate sleep time, and absence of trouble sleeping reduces mortality risk among cancer survivors. The harms of abnormal sleep time and trouble sleeping were offset by sufficient PA.<h4>Implications for oncology nursing practice</h4>Survivorship care should integrate the concurrent assessment and management of PA and sleep.",
+        "search_query": "sleep duration physical activity mortality",
+        "semantic_relevance": 0.652
+      },
+      {
+        "pmid": null,
+        "pmcid": null,
+        "title": "Combined sleep, domain-specific physical activity, and nutrition in relation to all-cause mortality among US adults",
+        "authors": "Lu Q, Koemel NA, Biswas RK, Bian W, Wiley JF, Pase MP, Drummond SP, Olivier P, Farinelli MA, Cistulli PA, Simpson SJ, Ahmadi MN, Stamatakis E.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "Preprint"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background</h4>  Sleep duration, physical activity, and nutrition (SPAN) are each associated with mortality risk, yet they are usually examined individually or in pairs, with limited attention to their combined associations and differences across physical activity domains. We examined combined SPAN behaviours in relation to all-cause mortality across different physical activity domains (occupational physical activity (OPA), leisure-time physical activity (LTPA) and transportational physical activity (TPA)). <h4>Methods</h4>  We included adults aged 18 years or older from the National Health and Nutrition Examination Survey 2007\u20132018. Sleep duration was self-reported in hours/day. Physical activity, including moderate-to-vigorous physical activity (MVPA) across domains, was assessed using the Global Physical Activity Questionnaire. Diet quality was estimated from 24-hour dietary recalls using the Healthy Eating Index-2020 (HEI-2020). We created 27 mutually exclusive joint categories using tertiles of physical activity and HEI-2020, and guideline-based sleep-duration groups (<7, 7\u20138, and >8 h/day), with the lowest combination as the reference. We used Cox proportional hazards models to estimate hazard ratios (HRs) and 95% CIs for all-cause mortality. To estimate the minimum combined variations associated with lower mortality risk, we used the 5  th percentile of each behaviour as the reference.  <h4>Results</h4>  Among 31,875 participants (median age 48.0 years; 51.4% female), 2,623 deaths occurred over a median follow-up of 6.75 years. In joint categorical analyses, a combination of optimal sleep (7-8 h/day), high diet quality (HEI-2020: >56.0), and high LTPA (>35.4 min/day) or high TPA (>25.7 min/day) was associated with the lowest all-cause mortality risk (HR = 0.44, 95%CI: 0.29-0.65; HR = 0.54, 95%CI: 0.37-0.77). The lowest HR for OPA was observed for sleep duration (3.0\u20136.5 h/day), moderate OPA (1.4\u2013114.0 min/day), and high diet quality (HR = 0.53, 95%CI: 0.37-0.75). Relative to the reference values (sleep: 5 h/day, MVPA/PA domains: 0 min/day and HEI-2020: 32.29), a combined minimum increment of 15 min/day of sleep, 5 HEI-2020 points, in combination with either 10.8 min/day of total MVPA, 24.0 min/day of OPA, or 5.2 min/day of LTPA, were associated with 10% lower all-cause mortality. For TPA, the 10% lower risk corresponded to 30 additional min/day of sleep, 5 HEI-2020 points, and 5.5 min/day of transport PA. <h4>Conclusions</h4>  Modest combined increments in SPAN were associated with lower all-cause mortality among US adults across physical activity domains, with combinations including higher amounts of LTPA showing the most favourable profile.",
+        "search_query": "sleep physical activity all cause mortality",
+        "semantic_relevance": 0.636
+      },
+      {
+        "pmid": "42386465",
+        "pmcid": null,
+        "title": "Joint associations of accelerometer-measured sleep duration and physical activity with cardiovascular disease and all-cause mortality: a longitudinal cohort study.",
+        "authors": "Dai Y, Liu Y, Pan Y, Ma J, Diao X, Zhu M, Yang X, Gao D, Zhang Y, Ji M, Zhang Y, Xie W, Zheng F.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background and aims</h4>To investigate the joint associations of sleep duration and physical activity with incident cardiovascular disease (CVD) and all-cause mortality.<h4>Methods and results</h4>This study utilized data from the UK Biobank. Accelerometers were used to assess sleep duration (categorized into insufficient [<7\u202fh/day], optimal [\u22657, <10\u202fh/day], and prolonged [\u226510\u202fh/day]) and physical activity (moderate-to-vigorous physical activity [MVPA] and light physical activity [LPA]). Restricted cubic spline and the Cox proportional hazard models were used to investigate the independent and joint associations. A total of 87,879 participants were included. Significant additive interactions between sleep duration and PA on all outcomes were observed, as indicated by the relative excess risk due to interaction. Among participants with low MVPA, compared with optimal sleep duration, suboptimal sleep duration was associated with elevated risk of CVD (prolonged: [HR: 1.17, 95% CI: 1.01, 1.36]) and all-cause mortality (insufficient: [HR: 1.51, 95% CI: 1.21, 1.89]; prolonged: [HR: 1.20, 95% CI: 1.05, 1.36]). When increasing MVPA to a high level, participants with suboptimal sleep had a lower risk of CVD (prolonged: [HR: 0.76, 95% CI: 0.60, 0.97]) and all-cause mortality (insufficient: [HR: 0.59, 95% CI: 0.40, 0.85]; prolonged: [HR: 0.70, 95% CI: 0.56, 0.88]) compared with those with optimal sleep duration and low MVPA. Results for LPA showed similar patterns.<h4>Conclusion</h4>Suboptimal sleep duration and low PA were synergistically associated with an increased risk of CVD and all-cause mortality. Higher levels of MVPA and LPA were associated with an attenuation in the elevated risk related to suboptimal sleep duration.",
+        "search_query": "sleep physical activity all cause mortality",
+        "semantic_relevance": 0.631
+      },
+      {
+        "pmid": "42591293",
+        "pmcid": "PMC13461472",
+        "title": "Modifiable lifestyle factors and sudden cardiac death: mechanisms, evidence, and prevention strategies.",
+        "authors": "Zhang J, Meng X, Shin H, Choi W.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "Sudden cardiac death (SCD) accounts for an estimated 4-5 million deaths annually worldwide and remains a major unresolved challenge in cardiovascular medicine. Survival from out-of-hospital cardiac arrest remains below 10% in most regions, and approximately half of SCD events occur as the first clinical manifestation of cardiovascular disease, often in individuals not identified by conventional risk stratification. We conducted a narrative review of the literature in PubMed/MEDLINE, Web of Science, and EMBASE (January 2003 to April 2026), prioritizing prospective cohorts, randomized trials, meta-analyses, and international guidelines. Five major modifiable lifestyle domains are consistently linked to SCD risk: sleep health, physical activity, diet, psychological stress, and tobacco and alcohol use. Sleep duration shows a U-shaped association with cardiovascular mortality, and untreated obstructive sleep apnea may confer substantially elevated risk (subgroup OR 3.87; 95% CI 1.09-13.81), although overall evidence remains heterogeneous. Physical activity also follows a U-shaped pattern, with habitual moderate activity being protective, and brief vigorous incidental activity (\u223c4\u2005min/day) reducing cardiovascular mortality by 32%-34%, while sedentary behavior and unaccustomed vigorous exertion increase risk. Mediterranean dietary patterns reduce major cardiovascular events by approximately 30%, and psychological stress promotes arrhythmogenesis through neurohormonal activation and adverse remodeling. These exposures converge on four key mechanisms: autonomic dysfunction, systemic inflammation, structural and electrophysiological remodeling, and metabolic-hormonal dysregulation. Integrating lifestyle-based interventions into routine cardiovascular risk assessment offers a low-cost and scalable strategy for primary prevention. Emerging digital health technologies, including AI-enhanced electrocardiography and consumer-grade wearables, provide complementary opportunities for individualized risk prediction and population-level monitoring, particularly in resource-limited settings where conventional device-based prevention remains limited. Given the observational nature of most included evidence and the heterogeneity of SCD definitions across studies, the mechanistic and clinical inferences presented here should be regarded as hypothesis-generating, motivating prospective and where feasible interventional research rather than immediate practice change.",
+        "search_query": "sleep duration physical activity mortality",
+        "semantic_relevance": 0.621
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "claim": "Bedbugs can cause people to lose sleep and blood",
+    "papers": [
+      {
+        "pmid": "34821827",
+        "pmcid": "PMC8623092",
+        "title": "The Impact of Bedbug (<i>Cimex</i> spp.) Bites on Self-Rated Health and Average Hours of Sleep per Day: A Cross-Sectional Study among Hong Kong Bedbug Victims.",
+        "authors": "Fung EHC, Chiu SW, Lam HM, Chung RY, Wong SYS, Chan SM, Dong D, Wong H.",
+        "journal": "",
+        "year": "2021",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 6,
+        "abstract": "Bedbugs (<i>Cimex</i> spp.) are a nuisance public-health pest that is on the rise globally, particularly in crowded cities such as Hong Kong. To investigate the health impacts of bedbug infestations among bedbug victims, online surveys were distributed in Hong Kong between June 2019 to July 2020. Data on sociodemographics, self-rated health, average hours of sleep per day, and details of bedbug infestation were collected. Bivariate and multivariable analysis were performed using logistic regression. The survey identified 422 bedbug victims; among them, 223 (52.9%) experienced \u2265five bites in the past month; most bites occurred on the arms (<i>n</i> = 202, 47.8%) and legs (<i>n</i> = 215, 51%), and the most common reaction to bites were itchiness (<i>n</i> = 322, 76.3%), redness, and swelling of the skin (<i>n</i> = 246, 58.1%), and difficulties sleeping or restlessness (<i>n</i> = 125, 29.6%). Bites usually occurred during sleep (<i>n</i> = 230, 54.5%). For impact on daily life in the past month, most bedbug victims reported moderate to severe impact on mental and emotional health (<i>n</i> = 223, 52.8%) and sleeping quality (<i>n</i> = 239, 56.6%). Lower self-rated health (aOR < 1) was independently associated with impact on physical appearance (<i>p</i> = 0.008), spending money on medication or doctor consultation (<i>p</i> = 0.04), number of bites in the past month (<i>p</i> = 0.023), and irregular time of bites (<i>p</i> = 0.003). Lower average hours of sleep per day (aOR < 1) was independently associated with impact on mental and emotional health (<i>p</i> = 0.016). This study brings attention to the neglected issue of bedbug infestation by considering bedbugs as an infectious agent instead of a vector and providing empirical evidence describing its health impacts.",
+        "search_query": "bedbugs sleep disturbance",
+        "semantic_relevance": 0.643
+      },
+      {
+        "pmid": "42054290",
+        "pmcid": "PMC13127920",
+        "title": "Clinical manifestations of bed bug bites: A systematic review of case reports.",
+        "authors": "Porras-Villamil JF, DeVries ZC.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Importance</h4>Clinical characterization of bed bug (Cimex spp.) bite manifestations remains limited.<h4>Objective</h4>This systematic review synthesizes case reports to describe dermatological, systemic, and psychological outcomes of bed bug bites.<h4>Evidence review</h4>Following PRISMA guidelines, multiple databases, including Pubmed and Scopus, were searched using terms such as \"bed bug,\" \"Cimex lectularius,\" \"Cimex hemipterus,\" \"case report,\" and \"case series.\" Extracted data included demographics, species, lesion type, anatomical distribution, and clinical manifestations. Quantitative and qualitative analyses were conducted.<h4>Results</h4>Eighty-four patients were included: 76 with C. lectularius (90.5%) and, 8 with C. hemipterus (9.5%). Sex distribution was balanced (47.6% females, 52.4% males), and mean ages were similar (females 37.5\u2009\u00b1\u200922.1, males 42.3\u2009\u00b1\u200921.27\u00a0years; p\u2009=\u20090.332). Extremities were commonly affected, arms were reported in 71.4% of cases, legs in 59.5% and trunk in 34.5%. Psychological symptoms were registered in a handful of case reports (Anxiety 9.5%, Stress 9.5%, Hopelessness 9.5%). Systemic symptoms, generally associated with anemia, were reported in cases related to severe infestations in neglected patients. Some differences in systemic and local signs and symptoms were detected depending on age group.<h4>Conclusions</h4>Bed bug bites predominantly affect exposed extremities, although with variable dermatologic patterns that can be confused with other arthropod bites. Psychological manifestations were reported in a small subset of cases, while systemic complications were rare.",
+        "search_query": "bed bug infestation sleep",
+        "semantic_relevance": 0.454
+      },
+      {
+        "pmid": "32766346",
+        "pmcid": "PMC7382696",
+        "title": "Prevalence and Spatial Distribution of Bed Bug, <i>Cimex lectularius</i>, Infestation in Southwest of Iran: GIS Approach.",
+        "authors": "Sharififard M, Alizadeh I, Jahanifard E, Saki-Malehi A.",
+        "journal": "",
+        "year": "2020",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 3,
+        "abstract": "<h4>Background</h4>The common bed bug, a nocturnal bloodsucking insect, is known as a human parasite and public health problem in the world. The prevalence and geographical dispersion of bed bug in Ahvaz City, southwest of Iran was measured.<h4>Methods</h4>Spatial distribution of <i>Cimex lectularius</i> was determined by surveying 520 houses in 62 areas of Ahvaz City in 2017. Some information like as infested points, the concern level of the residents and allergic reaction to the insect bite were registered in a form using the secondhand instrument.<h4>Results</h4>According to the spatial distribution map, of 62 areas, 27 of them are infested with bed bugs. Infestation is scattered throughout the city, but its focus is on the east of the Karun River. The most bed bug infestation was in Asiabad followed by Manbaab areas. Prevalence of bed bug infestation estimated 9.61% in Ahvaz city. It was 5.4% and 11.6% in apartments and single houses, respectively. The lowest and highest infestation rates based on its source were 1.35% and 9.03% in wallpaper and cracks and crevices, respectively. Bedroom and sitting room were the main harborages for bed bug in the houses. The majority of residents who had bitten by a bed bug showed various allergic reactions like redness skin, papules, vesicles, pustules and blisters. Most of the people in the infested houses (62%) were very concern about bed bug infestation.<h4>Conclusion</h4>Public education and increasing the knowledge of people can lead to successful management, prevention and elimination of this nuisance pest.",
+        "search_query": "bedbugs sleep disturbance",
+        "semantic_relevance": 0.441
+      },
+      {
+        "pmid": "40629452",
+        "pmcid": "PMC12239333",
+        "title": "Toxicity of ivermectin to bed bugs (Cimex hemipterus) and risk factors associated with infestation in Kwale County, coastal Kenya.",
+        "authors": "Odongo T, Omondi I, Wanjiku C, Okoko M, Kiuru C, Kariuki M, Ringera I, Otieno B, Mure F, Furnival-Adams J, Gutierrez AS, Otuko R, Rabinovich NR, Mwangangi J, Chaccour C, Maia MF.",
+        "journal": "",
+        "year": "2025",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 4,
+        "abstract": "<h4>Background</h4>Bed bugs (Cimex spp.) are obligate ectoparasites that have long been associated with human dwellings, causing discomfort and psychosocial distress. Conventional control strategies relying on insecticides are increasingly challenged by resistance, necessitating alternative interventions. Ivermectin, an endectocide known to impact various neglected tropical diseases and hematophagous arthropods, is currently being assessed for malaria vector control. This study aimed to evaluate the toxicity of ivermectin on Cimex hemipterus, the predominant bed bug species in Africa, within the framework of the Broad One Health Endectocide-based Malaria Intervention in Africa (BOHEMIA) project in Kwale, Kenya.<h4>Methods</h4>A cross-sectional survey was conducted in 352 households to obtain information on self-reported bed bug infestations, socioeconomic status, and household characteristics. Bed bugs were collected from 40 infested households. After collection, bed bugs were acclimatized and exposed to blood meals spiked with ivermectin at five concentrations (85\u00a0ng/ml, 64\u00a0ng/ml, 43\u00a0ng/ml, 21\u00a0ng/ml, and 11\u00a0ng/ml), corresponding to expected serum levels 4\u00a0h to 6-7\u00a0days following a 400\u00a0\u00b5g/kg oral dose. Mortality and fecundity were monitored over a 14-day period. Statistical analyses, including Cox proportional hazard models and probit regression, were applied to assess dose-response relationships.<h4>Results</h4>Bed bug infestation was common, with 75% of participating households reporting their presence, with infestations being strongly associated with the number of people residing in a household. Ivermectin exposure resulted in significant dose-dependent mortality in Cimex hemipterus, with the higher concentrations (43, 64, and 85\u00a0ng/ml) inducing over 90% mortality within 3 days postfeeding. Bed bugs that ingested blood meals containing sublethal doses of ivermectin did not lay eggs. Kaplan-Meier survival analyses demonstrated a clear inverse relationship between ivermectin concentration and bed bug survival.<h4>Conclusions</h4>These findings provide evidence that ivermectin, administered as part of a mass drug administration campaign, could contribute to bed bug control alongside its intended impact on other diseases or vectors. The results underscore the potential for integrated public health approaches leveraging endectocide interventions. Further field evaluations in diverse locations are needed to determine the optimal number of administrations and treatment intervals required for complete infestation elimination.",
+        "search_query": "bed bug infestation sleep",
+        "semantic_relevance": 0.428
+      },
+      {
+        "pmid": "40870560",
+        "pmcid": "PMC12386416",
+        "title": "Emotional Responses to Bed Bug Encounters: Effects of Sex, Proximity, and Educational Intervention on Fear and Disgust Perceptions.",
+        "authors": "McNeill CA, Danek RH.",
+        "journal": "",
+        "year": "2025",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 1,
+        "abstract": "This study investigated individuals' emotional responses to bed bugs and how these were influenced by sex, proximity, and educational intervention. Using a pre-post experimental design, participants (<i>n</i> = 157) completed emotional assessments before and after viewing an educational video about bed bugs. Contrary to our initial hypothesis that only fear and disgust would be observed, participants also exhibited high levels of anxiety and anger. Following the educational intervention, disgust, fear, and anger toward bed bugs increased significantly. Participants experienced greater disgust and fear when imagining encounters with bed bugs in closer proximity, with home infestations giving stronger responses than workplace scenarios. The educational video reduced disgust toward bed bugs in the home but increased fear of them in public spaces, potentially promoting vigilance that could limit bed bug spread. Females reported higher levels of disgust and fear than males across all proximity conditions, supporting evolutionary theories regarding sex-specific disgust sensitivity. The educational video successfully increased participants' knowledge about bed bugs while simultaneously shifting emotional responses from contamination-based disgust to threat-specific fear. These findings suggest that educational interventions can effectively modify emotional responses to bed bugs, potentially leading to more rational management behaviors by transforming vague anxiety into actionable awareness of specific threats.",
+        "search_query": "bed bug infestation sleep",
+        "semantic_relevance": 0.373
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "claim": "Regular walking is linked to better sleep, improved mood, and lower risk of dementia",
+    "papers": [
+      {
+        "pmid": "42257895",
+        "pmcid": "PMC13246843",
+        "title": "Lifestyle factors moderate emotion-gait coupling in young adults.",
+        "authors": "Wadsworth DD, Adlou B, Grace JL, Kosek J, Wilburn C, Weimar W.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "The current study investigated whether physical activity, sleep quality, nutritional patterns, and their composite moderate mood-gait relationships in healthy young adults. Participants completed a baseline assessment and over the course of the semester up to five repeated walking gait and mood assessments. At baseline, participants completed self-reported measures of current physical activity levels (IPAQ), sleep quality over the past month (PSQI), and nutritional intake (24-hour dietary recall). Of the 16 participants enrolled, 15 completed baseline surveys, and all completed at least two gait assessments. Most participants demonstrated moderate-to-high physical activity levels, with 86.7% meeting aerobic and 73.43% meeting resistance training guidelines. Sleep quality varied widely. Moderation analyses, accounting for visit number, identified three significant interactions after false discovery rate correction, all involving the gait rhythm domain. Higher baseline physical activity levels (both total MET-minutes and WHO physical activity category) attenuated the relationship between positive emotions and gait rhythm, suggesting that active individuals maintain more stable gait timing regardless of emotional state. Higher protein intake strengthened the association between negative emotions and gait rhythm. Three additional interactions, including a lifestyle composite score, showed trend-level effects (raw p < .012) warranting replication. These findings highlight the influence of lifestyle factors on emotion-related gait variability and indicate how modifiable health behaviors may influence emotion-locomotion coupling.",
+        "search_query": "walking sleep quality mood",
+        "semantic_relevance": 0.531
+      },
+      {
+        "pmid": "42571904",
+        "pmcid": "PMC13453549",
+        "title": "Types of Exercise and Risk of Developing Dementia in Older Japanese Community-Dwelling Adults: A Prospective Study.",
+        "authors": "Nagata K, Tsunoda K, Fujii Y, Seol J, Jindo T, Shibuya K, Okura T.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Aim</h4>Although exercise is considered effective in preventing dementia, it remains unclear whether different types of exercise are differentially associated with dementia risk. The aim of this study was to clarify the relationship between specific types of exercise and the risk of developing dementia.<h4>Methods</h4>We conducted postal surveys of 5074 community-dwelling older adults in Japan in June 2013 (pre-baseline wave) and August 2017 (baseline wave). Participants were followed for 4\u2009years, until July 2021. Dementia was assessed using the nationally standardized scale developed by the Ministry of Health, Labour and Welfare of Japan. Participants were grouped based on engagement in 17 exercise types or classified as a non-exerciser group if they did not participate in any of these activities. Five exercise types with \u2265\u2009150 participants-calisthenics, walking, Japanese croquet, golf, and strength exercise-were included in the analysis. Adjusted Cox proportional hazards models with robust variance estimators were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for dementia development by comparing each exercise group with the non-exerciser group.<h4>Results</h4>During the follow-up period (median, 4.0\u2009years; interquartile range, 4.0-4.0\u2009years), 430 participants (8.5%) developed dementia. Compared with non-exercisers, participation in Japanese croquet and strength exercise was associated with a significantly lower risk of developing dementia, with adjusted HRs of 0.68 (95% CI, 0.46-0.99) and 0.26 (95% CI, 0.08-0.81), respectively.<h4>Conclusions</h4>Participation in Japanese croquet and strength exercise may be beneficial for the prevention of dementia.",
+        "search_query": "physical activity sleep dementia risk",
+        "semantic_relevance": 0.529
+      },
+      {
+        "pmid": "42265623",
+        "pmcid": "PMC13474596",
+        "title": "Dementia transition in early cognitive decline trajectories (DETECT) study: a prospective longitudinal study protocol.",
+        "authors": "Ji H, Cho A, Lee H, Jeong G, Hong EH, Lee KH.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background</h4>Mild cognitive impairment is widely recognized as a high-risk state associated with a progression to dementia. Although previous studies have reported several predictors of the transition from MCI to dementia, many of these predictive factors are non-modifiable, and evidence on modifiable factors remains limited and inconsistent. Moreover, to date, social factors and their role in this transition have not been sufficiently examined. Guided by the Biopsychosocial Model of Dementia, this protocol describes a study which will examine the transition to dementia as a multidimensional process shaped by biological, psychological, and social factors. This study aims to identify the determinants associated with the transition to dementia and to develop machine learning-based prediction models for this transition among older adults with mild cognitive impairment.<h4>Methods</h4>This is a 3-year prospective longitudinal study which will be conducted among older adults with mild cognitive impairment in South Korea. The participants will be recruited from community-based settings, and annual home visits will be conducted to collect data on biological, psychological, and social factors. This data will be obtained through self-reported questionnaires, physical measurements, wrist-worn actigraphy, sweat patch sampling, indoor environmental sensing, and public records. The outcome will be transition to dementia, defined by clinical diagnosis or cognitive screening criteria. Machine-learning algorithms will be used to develop the prediction models, and model performance will be evaluated using classification metrics and area under the receiver operating characteristic curve analysis.<h4>Discussion</h4>This study is expected to provide evidence on the determinants associated with the transition to dementia among older adults with mild cognitive impairment. The use of home-based assessments and multiple data sources may offer a broader understanding of factors related to this transition. The findings may be useful for early risk identification and for developing community-based interventions and policies to support dementia prevention.",
+        "search_query": "walking sleep mood dementia",
+        "semantic_relevance": 0.435
+      },
+      {
+        "pmid": "42522732",
+        "pmcid": "PMC13417504",
+        "title": "Temporal Patterns of BPSD During a Multimodal Non-Pharmacological Intervention in Nursing Home and Daycare Centre Settings.",
+        "authors": "Lim KS, Song MS, Song H.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "research-article",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background</h4>Behavioural and psychological symptoms of dementia (BPSD) fluctuate over time, yet multimodal non-pharmacological interventions (MNPIs) are usually evaluated by pre-post comparison alone. We examined BPSD trajectories during an MNPI delivered within routine care in two dementia-specialised settings.<h4>Methods</h4>In this one-group pretest-posttest study, 23 nursing home residents and 14 daycare centre users with physician-confirmed dementia (Global Deterioration Scale [GDS] Stage 4 or higher) received an 8-week MNPI comprising seven care domains. Neuropsychiatric Inventory Questionnaire (NPI-Q) total severity scores (0-36) were rated at baseline and Weeks 1, 3, 4, 6, 7 and 8. Linear mixed-effects models, fitted separately by setting, adjusted for baseline NPI-Q score and GDS stage.<h4>Results</h4>Baseline BPSD severity differed markedly between settings (nursing home 14.35\u2009\u00b1\u20097.63; daycare centre 2.86\u2009\u00b1\u20091.88). In the nursing home, time had a significant effect (p\u2009=\u20090.021). Adjusted mean scores fell from 11.83 at Week 1 to 7.65 at Week 3, then returned to 10.51 by Week 8 and only the Week 1-3 contrast survived Bonferroni correction. In the daycare centre, adjusted scores remained low throughout (1.67-3.53) and no temporal change was detected (p\u2009=\u20090.580). Instead, baseline NPI-Q score (p\u2009=\u20090.002) and GDS stage (p\u2009=\u20090.008) predicted BPSD severity.<h4>Conclusions</h4>BPSD trajectories differed by care setting. Change in the nursing home was real but transient, and would have been missed or misread by a single post-intervention assessment. In the daycare centre, where baseline BPSD severity was low, no change was detectable and severity was explained by individual baseline characteristics rather than by time. Participant selection, outcome measures and assessment timing should therefore be matched to the setting and the BPSD severity of the population served. Absent a control group and medication data, causal inference is precluded.",
+        "search_query": "walking sleep mood dementia",
+        "semantic_relevance": 0.416
+      },
+      {
+        "pmid": "42746159",
+        "pmcid": "PMC13575609",
+        "title": "Non-Pharmacological Interventions for Cognitive Function Management in Middle-Aged and Older Adults with Hypertension: A Scoping Review.",
+        "authors": "Luo J, Yuan Y, Du J, Fang W, Duan W.",
+        "journal": "",
+        "year": "2026",
+        "publication_type": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ],
+        "cited_by_count": 0,
+        "abstract": "<h4>Background</h4>Hypertension is an increasing public health concern across adulthood, including among young adults, and remains highly prevalent in middle-aged and older populations. In this review, middle-aged adults were defined as individuals aged 45 years or older, and older adults as individuals aged 60 years or older. Hypertension is also a modifiable vascular risk factor for cognitive decline and dementia, and cognitive impairment is common among patients with hypertension. Persistent blood pressure elevation may impair cognition through vascular injury, cerebral hypoperfusion and small-vessel disease. Non-pharmacological strategies such as exercise, lifestyle modification, sleep management, psychological support, cognitive rehabilitation and nursing follow-up may support both blood pressure management and cognitive health, but the evidence is scattered across heterogeneous populations and interventions.<h4>Methods</h4>A scoping review-style evidence mapping was conducted with reference to the Arksey and O'Malley framework, subsequent methodological guidance, and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). A systematic search of Chinese and English databases was conducted from the earliest available record in each database to June 2026. Studies were eligible if they involved middle-aged or older adults with hypertension or hypertension-related cognitive risk, evaluated a non-pharmacological intervention, and reported at least one cognitive outcome. Data were charted on population, study design, intervention components, duration, outcome measures and main findings. Findings were synthesized narratively and thematically.<h4>Results</h4>Only eight intervention studies, representing a total of 932 participants, met the inclusion criteria, indicating a limited evidence base. Study designs included randomized controlled or randomized intervention studies, a quasi-experimental pretest-posttest study, a prospective controlled community study, a follow-up analysis of a randomized trial, and nursing intervention studies. Four intervention themes were identified: exercise-based interventions, lifestyle and sleep management, health education with emotional or psychological support, and cognitive rehabilitation with continuing nursing management. Potential benefits were reported for memory, working memory, global cognition, activities of daily living, quality of life, blood pressure control, adherence or self-management. However, the included studies varied substantially in population, intervention intensity, duration, study design and outcome measures.<h4>Conclusion</h4>The available evidence suggests that non-pharmacological interventions may have potential benefits for cognitive and related clinical outcomes in adults with hypertension, but the findings should be interpreted cautiously because only eight heterogeneous intervention studies were identified. Current evidence is insufficient to determine the most effective intervention components or delivery models. Larger, well-designed studies with standardized cognitive outcomes, longer follow-up and clearly reported intervention intensity and adherence are needed.",
+        "search_query": "physical activity sleep dementia risk",
+        "semantic_relevance": 0.369
+      }
+    ]
+  }
+]
