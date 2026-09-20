@@ -14,6 +14,9 @@ with open("evidence_profile.json") as f:
 with open("meme_evidence_divergence.json") as f:
     med = json.load(f)
 
+with open("cultural_metrics.json") as f:
+    cultural = json.load(f)
+
 st.title("Placebo Economy")
 st.caption(
     "Tracking how health narratives spread, mutate, diverge from evidence, "
@@ -23,11 +26,10 @@ st.caption(
 st.divider()
 
 st.subheader("Narrative under observation")
-st.markdown("### COVID-19 mRNA vaccines cause “turbo cancer”")
+st.markdown(f"### {evidence['claim']}")
 
-st.warning(
-    "WATCH — Evidence divergence is present, but explicit behavioral "
-    "activation was not detected in the analyzed sample."
+st.caption(
+    "This is the canonical health narrative currently being analyzed."
 )
 
 st.divider()
@@ -37,10 +39,25 @@ st.subheader("1. Cultural diffusion")
 
 c1, c2, c3, c4 = st.columns(4)
 
-c1.metric("Observed claim posts", "12")
-c2.metric("Unique participants", "12")
-c3.metric("Posts / hour", "10.29")
-c4.metric("Max observed reposts", "3,553")
+c1.metric(
+    "Observed claim posts",
+    cultural["observed_claim_posts"]
+)
+
+c2.metric(
+    "Unique participants",
+    cultural["unique_participants"]
+)
+
+c3.metric(
+    "Posts / hour",
+    cultural["posts_per_hour"]
+)
+
+c4.metric(
+    "Max observed reposts",
+    f"{cultural['max_observed_reposts']:,}"
+)
 
 st.caption(
     "Metrics reflect the analyzed Calcifer dataset window, not global X activity."
@@ -182,7 +199,7 @@ with st.expander("How the AI layer works"):
 st.divider()
 
 # EVIDENCE
-st.subheader("3. Scientific evidence")
+st.subheader("4. Scientific evidence")
 
 st.markdown(
     f"### Verdict: {evidence['verdict'].replace('_', ' ')}"
@@ -214,18 +231,24 @@ d.metric(
 
 with st.expander("View evidence sources"):
     for source in evidence["sources"]:
+
+        pmid = source["pmid"]
+        pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+
         st.markdown(
-            f"**PMID {source['pmid']} · {source['year']} · "
-            f"{source['study_type']}**"
+            f"**[{source['study_type']} · {source['year']} · PMID {pmid}]"
+            f"({pubmed_url})**"
         )
-        st.write(source["finding"])
-        st.caption("Limitation: " + source["limitation"])
+
+        st.write("**Finding:**", source["finding"])
+        st.write("**Limitation:**", source["limitation"])
+
         st.markdown("---")
 
 st.divider()
 
 # DIVERGENCE
-st.subheader("4. Meme–Evidence Divergence")
+st.subheader("5. Meme–Evidence Divergence")
 
 st.write(med["evidence_baseline"])
 
@@ -287,27 +310,69 @@ st.caption(
 st.divider()
 
 # BEHAVIOR
-st.subheader("5. Belief → behavior")
+st.subheader("6. Belief → behavior")
 
 b1, b2 = st.columns(2)
 
-b1.metric("Explicit behavior signals", "0 / 20")
-b2.metric("Behavioral intention rate", "0.00%")
-
-st.caption(
-    "No explicit avoid/refuse/stop/recommend-against behavior was detected "
-    "in the analyzed vaccine+cancer posts."
+# Weight behavior by how many times each distinct variant was observed
+total_behavior_posts = sum(
+    int(v["observed_count"])
+    for v in llm_data["variants"]
 )
+
+behavior_signal_posts = sum(
+    int(v["observed_count"])
+    for v in llm_data["variants"]
+    if v["behavior"] != "NONE"
+)
+
+behavior_rate = (
+    (behavior_signal_posts / total_behavior_posts) * 100
+    if total_behavior_posts else 0
+)
+
+b1.metric(
+    "Explicit behavior signals",
+    f"{behavior_signal_posts} / {total_behavior_posts}"
+)
+
+b2.metric(
+    "Behavioral intention rate",
+    f"{behavior_rate:.2f}%"
+)
+
+if behavior_signal_posts == 0:
+    st.caption(
+        "No explicit behavioral intention was detected in the analyzed "
+        "vaccine+cancer posts."
+    )
+else:
+    st.caption(
+        "At least one analyzed post contained an explicit behavioral signal."
+    )
 
 st.divider()
 
 # PRIORITIZATION
-st.subheader("6. Public-health prioritization")
+st.subheader("7. Public-health prioritization")
 
-# Inputs derived from this analyzed narrative
-evidence_aligned = False
-observed_momentum = True
-behavioral_intent_detected = False
+# Derive prioritization inputs from actual analysis outputs
+
+# Evidence is considered aligned only when our evidence engine
+# explicitly reports support.
+evidence_aligned = evidence["verdict"] == "SUPPORTED"
+
+# Total observed claim posts from the real diffusion timeline
+observed_claim_posts = int(timeline["posts"].sum())
+
+# MVP rule: repeated activity in at least 5 observed posts
+# counts as meaningful momentum within this sample.
+observed_momentum = observed_claim_posts >= 5
+
+# Behavior comes from the validated local-LLM output
+behavioral_intent_detected = bool(
+    (llm_df["Behavior"] != "NONE").any()
+)
 
 priority = prioritize(
     evidence_aligned=evidence_aligned,
