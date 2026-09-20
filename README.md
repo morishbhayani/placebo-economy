@@ -43,3 +43,38 @@ Scientific evidence retrieval
 Meme–Evidence Divergence
         ↓
 Public-health prioritization
+```
+
+---
+
+## Technology
+
+- Python
+- Streamlit
+- DuckDB + Pandas
+- Sentence Transformers
+- Ollama + Llama 3.2 3B
+- Europe PMC / PubMed
+- Calcifer social-media data
+- Graphviz
+
+---
+
+## Methodological Notes
+
+- Diffusion metrics describe the analyzed Calcifer sample, not all activity on X.
+- Observed variants are not assumed to be a proven chronological lineage.
+- Semantic distance measures changes in meaning, not scientific truth.
+- Observational associations are not treated as proof of causation.
+- Behavioral intention is counted only when explicit behavior language is detected.
+- Local LLM outputs are checked with deterministic validation rules.
+
+---
+
+## Core Idea
+
+Traditional systems often ask: **Is this claim true or false?**
+
+Placebo Economy asks: **What happens to a health idea after it enters culture?**
+
+**spread → mutation → evidence divergence → behavior → public-health priority**
