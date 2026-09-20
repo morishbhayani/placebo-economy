@@ -8,7 +8,7 @@ import pandas as pd
 import altair as alt
 
 st.set_page_config(
-    page_title="Placebo Economy",
+    page_title="Epi Meme Ology",
     page_icon="🧬",
     layout="wide"
 )
@@ -73,7 +73,7 @@ def find_deep_cache(text):
     return best
 
 
-st.title("Placebo Economy")
+st.title("Epi Meme Ology")
 
 st.caption(
     "Discovering how health narratives spread, replicate or mutate, "
