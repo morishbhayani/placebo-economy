@@ -1,5 +1,11 @@
 # Placebo Economy
 
+## Live Demo
+
+https://placebo-economy-ahkarngunnwrvavxnrug4g.streamlit.app/
+
+---
+
 **Placebo Economy tracks how health narratives spread, mutate, diverge from scientific evidence, and begin influencing behavior.**
 
 Instead of asking only whether a claim is true or false, the system asks:
